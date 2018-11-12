@@ -1,0 +1,807 @@
+	Egg Groups	Egg cycles	Gender	name
+0	Grass, Monster	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Ivysaur
+1	Grass, Monster	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Venusaur
+2	Dragon, Monster	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Charmander
+3	Dragon, Monster	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Charmeleon
+4	Dragon, Monster	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Charizard
+5	Monster, Water 1	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Squirtle
+6	Monster, Water 1	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Wartortle
+7	Monster, Water 1	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Blastoise
+8	Bug	15 (3,599–3,855 steps)	50% male, 50% female	Caterpie
+9	Bug	15 (3,599–3,855 steps)	50% male, 50% female	Metapod
+10	Bug	15 (3,599–3,855 steps)	50% male, 50% female	Butterfree
+11	Bug	15 (3,599–3,855 steps)	50% male, 50% female	Weedle
+12	Bug	15 (3,599–3,855 steps)	50% male, 50% female	Kakuna
+13	Bug	15 (3,599–3,855 steps)	50% male, 50% female	Beedrill
+14	Flying	15 (3,599–3,855 steps)	50% male, 50% female	Pidgey
+15	Flying	15 (3,599–3,855 steps)	50% male, 50% female	Pidgeotto
+16	Flying	15 (3,599–3,855 steps)	50% male, 50% female	Pidgeot
+17	Field	15 (3,599–3,855 steps)	50% male, 50% female	Rattata
+18	Field	15 (3,599–3,855 steps)	50% male, 50% female	Raticate
+19	Flying	15 (3,599–3,855 steps)	50% male, 50% female	Spearow
+20	Flying	15 (3,599–3,855 steps)	50% male, 50% female	Fearow
+21	Dragon, Field	20 (4,884–5,140 steps)	50% male, 50% female	Ekans
+22	Dragon, Field	20 (4,884–5,140 steps)	50% male, 50% female	Arbok
+23	Fairy, Field	10 (2,314–2,570 steps)	50% male, 50% female	Pikachu
+24	Fairy, Field	10 (2,314–2,570 steps)	50% male, 50% female	Raichu
+25	Field	20 (4,884–5,140 steps)	50% male, 50% female	Sandshrew
+26	Field	20 (4,884–5,140 steps)	50% male, 50% female	Sandslash
+27	Field, Monster	20 (4,884–5,140 steps)	0% male, 100% female	Nidoran♀
+28	Undiscovered	20 (4,884–5,140 steps)	0% male, 100% female	Nidorina
+29	Undiscovered	20 (4,884–5,140 steps)	0% male, 100% female	Nidoqueen
+30	Field, Monster	20 (4,884–5,140 steps)	100% male, 0% female	Nidoran♂
+31	Field, Monster	20 (4,884–5,140 steps)	100% male, 0% female	Nidorino
+32	Field, Monster	20 (4,884–5,140 steps)	100% male, 0% female	Nidoking
+33	Fairy	10 (2,314–2,570 steps)	25% male, 75% female	Clefairy
+34	Fairy	10 (2,314–2,570 steps)	25% male, 75% female	Clefable
+35	Field	20 (4,884–5,140 steps)	25% male, 75% female	Vulpix
+36	Field	20 (4,884–5,140 steps)	25% male, 75% female	Ninetales
+37	Fairy	10 (2,314–2,570 steps)	25% male, 75% female	Jigglypuff
+38	Fairy	10 (2,314–2,570 steps)	25% male, 75% female	Wigglytuff
+39	Flying	15 (3,599–3,855 steps)	50% male, 50% female	Zubat
+40	Flying	15 (3,599–3,855 steps)	50% male, 50% female	Golbat
+41	Grass	20 (4,884–5,140 steps)	50% male, 50% female	Oddish
+42	Grass	20 (4,884–5,140 steps)	50% male, 50% female	Gloom
+43	Grass	20 (4,884–5,140 steps)	50% male, 50% female	Vileplume
+44	Bug, Grass	20 (4,884–5,140 steps)	50% male, 50% female	Paras
+45	Bug, Grass	20 (4,884–5,140 steps)	50% male, 50% female	Parasect
+46	Bug	20 (4,884–5,140 steps)	50% male, 50% female	Venonat
+47	Bug	20 (4,884–5,140 steps)	50% male, 50% female	Venomoth
+48	Field	20 (4,884–5,140 steps)	50% male, 50% female	Diglett
+49	Field	20 (4,884–5,140 steps)	50% male, 50% female	Dugtrio
+50	Field	20 (4,884–5,140 steps)	50% male, 50% female	Meowth
+51	Field	20 (4,884–5,140 steps)	50% male, 50% female	Persian
+52	Field, Water 1	20 (4,884–5,140 steps)	50% male, 50% female	Psyduck
+53	Field, Water 1	20 (4,884–5,140 steps)	50% male, 50% female	Golduck
+54	Field	20 (4,884–5,140 steps)	50% male, 50% female	Mankey
+55	Field	20 (4,884–5,140 steps)	50% male, 50% female	Primeape
+56	Field	20 (4,884–5,140 steps)	75% male, 25% female	Growlithe
+57	Field	20 (4,884–5,140 steps)	75% male, 25% female	Arcanine
+58	Water 1	20 (4,884–5,140 steps)	50% male, 50% female	Poliwag
+59	Water 1	20 (4,884–5,140 steps)	50% male, 50% female	Poliwhirl
+60	Water 1	20 (4,884–5,140 steps)	50% male, 50% female	Poliwrath
+61	Human-Like	20 (4,884–5,140 steps)	75% male, 25% female	Abra
+62	Human-Like	20 (4,884–5,140 steps)	75% male, 25% female	Kadabra
+63	Human-Like	20 (4,884–5,140 steps)	75% male, 25% female	Alakazam
+64	Human-Like	20 (4,884–5,140 steps)	75% male, 25% female	Machop
+65	Human-Like	20 (4,884–5,140 steps)	75% male, 25% female	Machoke
+66	Human-Like	20 (4,884–5,140 steps)	75% male, 25% female	Machamp
+67	Grass	20 (4,884–5,140 steps)	50% male, 50% female	Bellsprout
+68	Grass	20 (4,884–5,140 steps)	50% male, 50% female	Weepinbell
+69	Grass	20 (4,884–5,140 steps)	50% male, 50% female	Victreebel
+70	Water 3	20 (4,884–5,140 steps)	50% male, 50% female	Tentacool
+71	Water 3	20 (4,884–5,140 steps)	50% male, 50% female	Tentacruel
+72	Mineral	15 (3,599–3,855 steps)	50% male, 50% female	Geodude
+73	Mineral	15 (3,599–3,855 steps)	50% male, 50% female	Graveler
+74	Mineral	15 (3,599–3,855 steps)	50% male, 50% female	Golem
+75	Field	20 (4,884–5,140 steps)	50% male, 50% female	Ponyta
+76	Field	20 (4,884–5,140 steps)	50% male, 50% female	Rapidash
+77	Monster, Water 1	20 (4,884–5,140 steps)	50% male, 50% female	Slowpoke
+78	Monster, Water 1	20 (4,884–5,140 steps)	50% male, 50% female	Slowbro
+79	Mineral	20 (4,884–5,140 steps)	Genderless	Magnemite
+80	Mineral	20 (4,884–5,140 steps)	Genderless	Magneton
+81	Field, Flying	20 (4,884–5,140 steps)	50% male, 50% female	Farfetch'd
+82	Flying	20 (4,884–5,140 steps)	50% male, 50% female	Doduo
+83	Flying	20 (4,884–5,140 steps)	50% male, 50% female	Dodrio
+84	Field, Water 1	20 (4,884–5,140 steps)	50% male, 50% female	Seel
+85	Field, Water 1	20 (4,884–5,140 steps)	50% male, 50% female	Dewgong
+86	Amorphous	20 (4,884–5,140 steps)	50% male, 50% female	Grimer
+87	Amorphous	20 (4,884–5,140 steps)	50% male, 50% female	Muk
+88	Water 3	20 (4,884–5,140 steps)	50% male, 50% female	Shellder
+89	Water 3	20 (4,884–5,140 steps)	50% male, 50% female	Cloyster
+90	Amorphous	20 (4,884–5,140 steps)	50% male, 50% female	Gastly
+91	Amorphous	20 (4,884–5,140 steps)	50% male, 50% female	Haunter
+92	Amorphous	20 (4,884–5,140 steps)	50% male, 50% female	Gengar
+93	Mineral	25 (6,169–6,425 steps)	50% male, 50% female	Onix
+94	Human-Like	20 (4,884–5,140 steps)	50% male, 50% female	Drowzee
+95	Human-Like	20 (4,884–5,140 steps)	50% male, 50% female	Hypno
+96	Water 3	20 (4,884–5,140 steps)	50% male, 50% female	Krabby
+97	Water 3	20 (4,884–5,140 steps)	50% male, 50% female	Kingler
+98	Mineral	20 (4,884–5,140 steps)	Genderless	Voltorb
+99	Mineral	20 (4,884–5,140 steps)	Genderless	Electrode
+100	Grass	20 (4,884–5,140 steps)	50% male, 50% female	Exeggcute
+101	Grass	20 (4,884–5,140 steps)	50% male, 50% female	Exeggutor
+102	Monster	20 (4,884–5,140 steps)	50% male, 50% female	Cubone
+103	Monster	20 (4,884–5,140 steps)	50% male, 50% female	Marowak
+104	Human-Like	25 (6,169–6,425 steps)	100% male, 0% female	Hitmonlee
+105	Human-Like	25 (6,169–6,425 steps)	100% male, 0% female	Hitmonchan
+106	Monster	20 (4,884–5,140 steps)	50% male, 50% female	Lickitung
+107	Amorphous	20 (4,884–5,140 steps)	50% male, 50% female	Koffing
+108	Amorphous	20 (4,884–5,140 steps)	50% male, 50% female	Weezing
+109	Field, Monster	20 (4,884–5,140 steps)	50% male, 50% female	Rhyhorn
+110	Field, Monster	20 (4,884–5,140 steps)	50% male, 50% female	Rhydon
+111	Fairy	40 (10,024–10,280 steps)	0% male, 100% female	Chansey
+112	Grass	20 (4,884–5,140 steps)	50% male, 50% female	Tangela
+113	Monster	20 (4,884–5,140 steps)	0% male, 100% female	Kangaskhan
+114	Dragon, Water 1	20 (4,884–5,140 steps)	50% male, 50% female	Horsea
+115	Dragon, Water 1	20 (4,884–5,140 steps)	50% male, 50% female	Seadra
+116	Water 2	20 (4,884–5,140 steps)	50% male, 50% female	Goldeen
+117	Water 2	20 (4,884–5,140 steps)	50% male, 50% female	Seaking
+118	Water 3	20 (4,884–5,140 steps)	Genderless	Staryu
+119	Water 3	20 (4,884–5,140 steps)	Genderless	Starmie
+120	Human-Like	25 (6,169–6,425 steps)	50% male, 50% female	Mr. Mime
+121	Bug	25 (6,169–6,425 steps)	50% male, 50% female	Scyther
+122	Human-Like	25 (6,169–6,425 steps)	0% male, 100% female	Jynx
+123	Human-Like	25 (6,169–6,425 steps)	75% male, 25% female	Electabuzz
+124	Human-Like	25 (6,169–6,425 steps)	75% male, 25% female	Magmar
+125	Bug	25 (6,169–6,425 steps)	50% male, 50% female	Pinsir
+126	Field	20 (4,884–5,140 steps)	100% male, 0% female	Tauros
+127	Dragon, Water 2	5 (1,029–1,285 steps)	50% male, 50% female	Magikarp
+128	Dragon, Water 2	5 (1,029–1,285 steps)	50% male, 50% female	Gyarados
+129	Monster, Water 1	40 (10,024–10,280 steps)	50% male, 50% female	Lapras
+130	Ditto	20 (4,884–5,140 steps)	Genderless	Ditto
+131	Field	35 (8,739–8,995 steps)	87.5% male, 12.5% female	Eevee
+132	Field	35 (8,739–8,995 steps)	87.5% male, 12.5% female	Vaporeon
+133	Field	35 (8,739–8,995 steps)	87.5% male, 12.5% female	Jolteon
+134	Field	35 (8,739–8,995 steps)	87.5% male, 12.5% female	Flareon
+135	Mineral	20 (4,884–5,140 steps)	Genderless	Porygon
+136	Water 1, Water 3	30 (7,454–7,710 steps)	87.5% male, 12.5% female	Omanyte
+137	Water 1, Water 3	30 (7,454–7,710 steps)	87.5% male, 12.5% female	Omastar
+138	Water 1, Water 3	30 (7,454–7,710 steps)	87.5% male, 12.5% female	Kabuto
+139	Water 1, Water 3	30 (7,454–7,710 steps)	87.5% male, 12.5% female	Kabutops
+140	Flying	35 (8,739–8,995 steps)	87.5% male, 12.5% female	Aerodactyl
+141	Monster	40 (10,024–10,280 steps)	87.5% male, 12.5% female	Snorlax
+142	Undiscovered	80 (20,304–20,560 steps)	Genderless	Articuno
+143	Undiscovered	80 (20,304–20,560 steps)	Genderless	Zapdos
+144	Undiscovered	80 (20,304–20,560 steps)	Genderless	Moltres
+145	Dragon, Water 1	40 (10,024–10,280 steps)	50% male, 50% female	Dratini
+146	Dragon, Water 1	40 (10,024–10,280 steps)	50% male, 50% female	Dragonair
+147	Dragon, Water 1	40 (10,024–10,280 steps)	50% male, 50% female	Dragonite
+148	Undiscovered	120 (30,584–30,840 steps)	Genderless	Mewtwo
+149	Undiscovered	120 (30,584–30,840 steps)	Genderless	Mew
+150	Grass, Monster	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Chikorita
+151	Grass, Monster	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Bayleef
+152	Grass, Monster	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Meganium
+153	Field	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Cyndaquil
+154	Field	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Quilava
+155	Field	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Typhlosion
+156	Monster, Water 1	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Totodile
+157	Monster, Water 1	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Croconaw
+158	Monster, Water 1	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Feraligatr
+159	Field	15 (3,599–3,855 steps)	50% male, 50% female	Sentret
+160	Field	15 (3,599–3,855 steps)	50% male, 50% female	Furret
+161	Flying	15 (3,599–3,855 steps)	50% male, 50% female	Hoothoot
+162	Flying	15 (3,599–3,855 steps)	50% male, 50% female	Noctowl
+163	Bug	15 (3,599–3,855 steps)	50% male, 50% female	Ledyba
+164	Bug	15 (3,599–3,855 steps)	50% male, 50% female	Ledian
+165	Bug	15 (3,599–3,855 steps)	50% male, 50% female	Spinarak
+166	Bug	15 (3,599–3,855 steps)	50% male, 50% female	Ariados
+167	Flying	15 (3,599–3,855 steps)	50% male, 50% female	Crobat
+168	Water 2	20 (4,884–5,140 steps)	50% male, 50% female	Chinchou
+169	Water 2	20 (4,884–5,140 steps)	50% male, 50% female	Lanturn
+170	Undiscovered	10 (2,314–2,570 steps)	50% male, 50% female	Pichu
+171	Undiscovered	10 (2,314–2,570 steps)	25% male, 75% female	Cleffa
+172	Undiscovered	10 (2,314–2,570 steps)	25% male, 75% female	Igglybuff
+173	Undiscovered	10 (2,314–2,570 steps)	87.5% male, 12.5% female	Togepi
+174	Fairy, Flying	10 (2,314–2,570 steps)	87.5% male, 12.5% female	Togetic
+175	Flying	20 (4,884–5,140 steps)	50% male, 50% female	Natu
+176	Flying	20 (4,884–5,140 steps)	50% male, 50% female	Xatu
+177	Field, Monster	20 (4,884–5,140 steps)	50% male, 50% female	Mareep
+178	Field, Monster	20 (4,884–5,140 steps)	50% male, 50% female	Flaaffy
+179	Field, Monster	20 (4,884–5,140 steps)	50% male, 50% female	Ampharos
+180	Grass	20 (4,884–5,140 steps)	50% male, 50% female	Bellossom
+181	Fairy, Water 1	10 (2,314–2,570 steps)	50% male, 50% female	Marill
+182	Fairy, Water 1	10 (2,314–2,570 steps)	50% male, 50% female	Azumarill
+183	Mineral	20 (4,884–5,140 steps)	50% male, 50% female	Sudowoodo
+184	Water 1	20 (4,884–5,140 steps)	50% male, 50% female	Politoed
+185	Fairy, Grass	20 (4,884–5,140 steps)	50% male, 50% female	Hoppip
+186	Fairy, Grass	20 (4,884–5,140 steps)	50% male, 50% female	Skiploom
+187	Fairy, Grass	20 (4,884–5,140 steps)	50% male, 50% female	Jumpluff
+188	Field	20 (4,884–5,140 steps)	50% male, 50% female	Aipom
+189	Grass	20 (4,884–5,140 steps)	50% male, 50% female	Sunkern
+190	Grass	20 (4,884–5,140 steps)	50% male, 50% female	Sunflora
+191	Bug	20 (4,884–5,140 steps)	50% male, 50% female	Yanma
+192	Field, Water 1	20 (4,884–5,140 steps)	50% male, 50% female	Wooper
+193	Field, Water 1	20 (4,884–5,140 steps)	50% male, 50% female	Quagsire
+194	Field	35 (8,739–8,995 steps)	87.5% male, 12.5% female	Espeon
+195	Field	35 (8,739–8,995 steps)	87.5% male, 12.5% female	Umbreon
+196	Flying	20 (4,884–5,140 steps)	50% male, 50% female	Murkrow
+197	Monster, Water 1	20 (4,884–5,140 steps)	50% male, 50% female	Slowking
+198	Amorphous	25 (6,169–6,425 steps)	50% male, 50% female	Misdreavus
+199	Undiscovered	40 (10,024–10,280 steps)	Genderless	Unown
+200	Amorphous	20 (4,884–5,140 steps)	50% male, 50% female	Wobbuffet
+201	Field	20 (4,884–5,140 steps)	50% male, 50% female	Girafarig
+202	Bug	20 (4,884–5,140 steps)	50% male, 50% female	Pineco
+203	Bug	20 (4,884–5,140 steps)	50% male, 50% female	Forretress
+204	Field	20 (4,884–5,140 steps)	50% male, 50% female	Dunsparce
+205	Bug	20 (4,884–5,140 steps)	50% male, 50% female	Gligar
+206	Mineral	25 (6,169–6,425 steps)	50% male, 50% female	Steelix
+207	Fairy, Field	20 (4,884–5,140 steps)	25% male, 75% female	Snubbull
+208	Fairy, Field	20 (4,884–5,140 steps)	25% male, 75% female	Granbull
+209	Water 2	20 (4,884–5,140 steps)	50% male, 50% female	Qwilfish
+210	Bug	25 (6,169–6,425 steps)	50% male, 50% female	Scizor
+211	Bug	20 (4,884–5,140 steps)	50% male, 50% female	Shuckle
+212	Bug	25 (6,169–6,425 steps)	50% male, 50% female	Heracross
+213	Field	20 (4,884–5,140 steps)	50% male, 50% female	Sneasel
+214	Field	20 (4,884–5,140 steps)	50% male, 50% female	Teddiursa
+215	Field	20 (4,884–5,140 steps)	50% male, 50% female	Ursaring
+216	Amorphous	20 (4,884–5,140 steps)	50% male, 50% female	Slugma
+217	Amorphous	20 (4,884–5,140 steps)	50% male, 50% female	Magcargo
+218	Field	20 (4,884–5,140 steps)	50% male, 50% female	Swinub
+219	Field	20 (4,884–5,140 steps)	50% male, 50% female	Piloswine
+220	Water 1, Water 3	20 (4,884–5,140 steps)	25% male, 75% female	Corsola
+221	Water 1, Water 2	20 (4,884–5,140 steps)	50% male, 50% female	Remoraid
+222	Water 1, Water 2	20 (4,884–5,140 steps)	50% male, 50% female	Octillery
+223	Field, Water 1	20 (4,884–5,140 steps)	50% male, 50% female	Delibird
+224	Water 1	25 (6,169–6,425 steps)	50% male, 50% female	Mantine
+225	Flying	25 (6,169–6,425 steps)	50% male, 50% female	Skarmory
+226	Field	20 (4,884–5,140 steps)	50% male, 50% female	Houndour
+227	Field	20 (4,884–5,140 steps)	50% male, 50% female	Houndoom
+228	Dragon, Water 1	20 (4,884–5,140 steps)	50% male, 50% female	Kingdra
+229	Field	20 (4,884–5,140 steps)	50% male, 50% female	Phanpy
+230	Field	20 (4,884–5,140 steps)	50% male, 50% female	Donphan
+231	Mineral	20 (4,884–5,140 steps)	Genderless	Porygon2
+232	Field	20 (4,884–5,140 steps)	50% male, 50% female	Stantler
+233	Field	20 (4,884–5,140 steps)	50% male, 50% female	Smeargle
+234	Undiscovered	25 (6,169–6,425 steps)	100% male, 0% female	Tyrogue
+235	Human-Like	25 (6,169–6,425 steps)	100% male, 0% female	Hitmontop
+236	Undiscovered	25 (6,169–6,425 steps)	0% male, 100% female	Smoochum
+237	Undiscovered	25 (6,169–6,425 steps)	75% male, 25% female	Elekid
+238	Undiscovered	25 (6,169–6,425 steps)	75% male, 25% female	Magby
+239	Field	20 (4,884–5,140 steps)	0% male, 100% female	Miltank
+240	Fairy	40 (10,024–10,280 steps)	0% male, 100% female	Blissey
+241	Undiscovered	80 (20,304–20,560 steps)	Genderless	Raikou
+242	Undiscovered	80 (20,304–20,560 steps)	Genderless	Entei
+243	Undiscovered	80 (20,304–20,560 steps)	Genderless	Suicune
+244	Monster	40 (10,024–10,280 steps)	50% male, 50% female	Larvitar
+245	Monster	40 (10,024–10,280 steps)	50% male, 50% female	Pupitar
+246	Monster	40 (10,024–10,280 steps)	50% male, 50% female	Tyranitar
+247	Undiscovered	120 (30,584–30,840 steps)	Genderless	Lugia
+248	Undiscovered	120 (30,584–30,840 steps)	Genderless	Ho-oh
+249	Undiscovered	120 (30,584–30,840 steps)	Genderless	Celebi
+250	Dragon, Monster	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Treecko
+251	Dragon, Monster	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Grovyle
+252	Dragon, Monster	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Sceptile
+253	Field	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Torchic
+254	Field	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Combusken
+255	Field	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Blaziken
+256	Monster, Water 1	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Mudkip
+257	Monster, Water 1	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Marshtomp
+258	Monster, Water 1	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Swampert
+259	Field	15 (3,599–3,855 steps)	50% male, 50% female	Poochyena
+260	Field	15 (3,599–3,855 steps)	50% male, 50% female	Mightyena
+261	Field	15 (3,599–3,855 steps)	50% male, 50% female	Zigzagoon
+262	Field	15 (3,599–3,855 steps)	50% male, 50% female	Linoone
+263	Bug	15 (3,599–3,855 steps)	50% male, 50% female	Wurmple
+264	Bug	15 (3,599–3,855 steps)	50% male, 50% female	Silcoon
+265	Bug	15 (3,599–3,855 steps)	50% male, 50% female	Beautifly
+266	Bug	15 (3,599–3,855 steps)	50% male, 50% female	Cascoon
+267	Bug	15 (3,599–3,855 steps)	50% male, 50% female	Dustox
+268	Grass, Water 1	15 (3,599–3,855 steps)	50% male, 50% female	Lotad
+269	Grass, Water 1	15 (3,599–3,855 steps)	50% male, 50% female	Lombre
+270	Grass, Water 1	15 (3,599–3,855 steps)	50% male, 50% female	Ludicolo
+271	Field, Grass	15 (3,599–3,855 steps)	50% male, 50% female	Seedot
+272	Field, Grass	15 (3,599–3,855 steps)	50% male, 50% female	Nuzleaf
+273	Field, Grass	15 (3,599–3,855 steps)	50% male, 50% female	Shiftry
+274	Flying	15 (3,599–3,855 steps)	50% male, 50% female	Taillow
+275	Flying	15 (3,599–3,855 steps)	50% male, 50% female	Swellow
+276	Flying, Water 1	20 (4,884–5,140 steps)	50% male, 50% female	Wingull
+277	Flying, Water 1	20 (4,884–5,140 steps)	50% male, 50% female	Pelipper
+278	Amorphous	20 (4,884–5,140 steps)	50% male, 50% female	Ralts
+279	Amorphous	20 (4,884–5,140 steps)	50% male, 50% female	Kirlia
+280	Amorphous	20 (4,884–5,140 steps)	50% male, 50% female	Gardevoir
+281	Bug, Water 1	15 (3,599–3,855 steps)	50% male, 50% female	Surskit
+282	Bug, Water 1	15 (3,599–3,855 steps)	50% male, 50% female	Masquerain
+283	Fairy, Grass	15 (3,599–3,855 steps)	50% male, 50% female	Shroomish
+284	Fairy, Grass	15 (3,599–3,855 steps)	50% male, 50% female	Breloom
+285	Field	15 (3,599–3,855 steps)	50% male, 50% female	Slakoth
+286	Field	15 (3,599–3,855 steps)	50% male, 50% female	Vigoroth
+287	Field	15 (3,599–3,855 steps)	50% male, 50% female	Slaking
+288	Bug	15 (3,599–3,855 steps)	50% male, 50% female	Nincada
+289	Bug	15 (3,599–3,855 steps)	50% male, 50% female	Ninjask
+290	Mineral	15 (3,599–3,855 steps)	Genderless	Shedinja
+291	Field, Monster	20 (4,884–5,140 steps)	50% male, 50% female	Whismur
+292	Field, Monster	20 (4,884–5,140 steps)	50% male, 50% female	Loudred
+293	Field, Monster	20 (4,884–5,140 steps)	50% male, 50% female	Exploud
+294	Human-Like	20 (4,884–5,140 steps)	75% male, 25% female	Makuhita
+295	Human-Like	20 (4,884–5,140 steps)	75% male, 25% female	Hariyama
+296	Undiscovered	10 (2,314–2,570 steps)	25% male, 75% female	Azurill
+297	Mineral	20 (4,884–5,140 steps)	50% male, 50% female	Nosepass
+298	Fairy, Field	15 (3,599–3,855 steps)	25% male, 75% female	Skitty
+299	Fairy, Field	15 (3,599–3,855 steps)	25% male, 75% female	Delcatty
+300	Human-Like	25 (6,169–6,425 steps)	50% male, 50% female	Sableye
+301	Fairy, Field	20 (4,884–5,140 steps)	50% male, 50% female	Mawile
+302	Monster	35 (8,739–8,995 steps)	50% male, 50% female	Aron
+303	Monster	35 (8,739–8,995 steps)	50% male, 50% female	Lairon
+304	Monster	35 (8,739–8,995 steps)	50% male, 50% female	Aggron
+305	Human-Like	20 (4,884–5,140 steps)	50% male, 50% female	Meditite
+306	Human-Like	20 (4,884–5,140 steps)	50% male, 50% female	Medicham
+307	Field	20 (4,884–5,140 steps)	50% male, 50% female	Electrike
+308	Field	20 (4,884–5,140 steps)	50% male, 50% female	Manectric
+309	Fairy	20 (4,884–5,140 steps)	50% male, 50% female	Plusle
+310	Fairy	20 (4,884–5,140 steps)	50% male, 50% female	Minun
+311	Bug, Human-Like	15 (3,599–3,855 steps)	100% male, 0% female	Volbeat
+312	Bug, Human-Like	15 (3,599–3,855 steps)	0% male, 100% female	Illumise
+313	Fairy, Grass	20 (4,884–5,140 steps)	50% male, 50% female	Roselia
+314	Amorphous	20 (4,884–5,140 steps)	50% male, 50% female	Gulpin
+315	Amorphous	20 (4,884–5,140 steps)	50% male, 50% female	Swalot
+316	Water 2	20 (4,884–5,140 steps)	50% male, 50% female	Carvanha
+317	Water 2	20 (4,884–5,140 steps)	50% male, 50% female	Sharpedo
+318	Field, Water 2	40 (10,024–10,280 steps)	50% male, 50% female	Wailmer
+319	Field, Water 2	40 (10,024–10,280 steps)	50% male, 50% female	Wailord
+320	Field	20 (4,884–5,140 steps)	50% male, 50% female	Numel
+321	Field	20 (4,884–5,140 steps)	50% male, 50% female	Camerupt
+322	Field	20 (4,884–5,140 steps)	50% male, 50% female	Torkoal
+323	Field	20 (4,884–5,140 steps)	50% male, 50% female	Spoink
+324	Field	20 (4,884–5,140 steps)	50% male, 50% female	Grumpig
+325	Field, Human-Like	15 (3,599–3,855 steps)	50% male, 50% female	Spinda
+326	Bug	20 (4,884–5,140 steps)	50% male, 50% female	Trapinch
+327	Bug	20 (4,884–5,140 steps)	50% male, 50% female	Vibrava
+328	Bug	20 (4,884–5,140 steps)	50% male, 50% female	Flygon
+329	Grass, Human-Like	20 (4,884–5,140 steps)	50% male, 50% female	Cacnea
+330	Grass, Human-Like	20 (4,884–5,140 steps)	50% male, 50% female	Cacturne
+331	Dragon, Flying	20 (4,884–5,140 steps)	50% male, 50% female	Swablu
+332	Dragon, Flying	20 (4,884–5,140 steps)	50% male, 50% female	Altaria
+333	Field	20 (4,884–5,140 steps)	50% male, 50% female	Zangoose
+334	Dragon, Field	20 (4,884–5,140 steps)	50% male, 50% female	Seviper
+335	Mineral	25 (6,169–6,425 steps)	Genderless	Lunatone
+336	Mineral	25 (6,169–6,425 steps)	Genderless	Solrock
+337	Water 2	20 (4,884–5,140 steps)	50% male, 50% female	Barboach
+338	Water 2	20 (4,884–5,140 steps)	50% male, 50% female	Whiscash
+339	Water 1, Water 3	15 (3,599–3,855 steps)	50% male, 50% female	Corphish
+340	Water 1, Water 3	15 (3,599–3,855 steps)	50% male, 50% female	Crawdaunt
+341	Mineral	20 (4,884–5,140 steps)	Genderless	Baltoy
+342	Mineral	20 (4,884–5,140 steps)	Genderless	Claydol
+343	Water 3	30 (7,454–7,710 steps)	87.5% male, 12.5% female	Lileep
+344	Water 3	30 (7,454–7,710 steps)	87.5% male, 12.5% female	Cradily
+345	Water 3	30 (7,454–7,710 steps)	87.5% male, 12.5% female	Anorith
+346	Water 3	30 (7,454–7,710 steps)	87.5% male, 12.5% female	Armaldo
+347	Dragon, Water 1	20 (4,884–5,140 steps)	50% male, 50% female	Feebas
+348	Dragon, Water 1	20 (4,884–5,140 steps)	50% male, 50% female	Milotic
+349	Amorphous, Fairy	25 (6,169–6,425 steps)	50% male, 50% female	Castform
+350	Field	20 (4,884–5,140 steps)	50% male, 50% female	Kecleon
+351	Amorphous	25 (6,169–6,425 steps)	50% male, 50% female	Shuppet
+352	Amorphous	25 (6,169–6,425 steps)	50% male, 50% female	Banette
+353	Amorphous	25 (6,169–6,425 steps)	50% male, 50% female	Duskull
+354	Amorphous	25 (6,169–6,425 steps)	50% male, 50% female	Dusclops
+355	Grass, Monster	25 (6,169–6,425 steps)	50% male, 50% female	Tropius
+356	Amorphous	25 (6,169–6,425 steps)	50% male, 50% female	Chimecho
+357	Field	25 (6,169–6,425 steps)	50% male, 50% female	Absol
+358	Undiscovered	20 (4,884–5,140 steps)	50% male, 50% female	Wynaut
+359	Fairy, Mineral	20 (4,884–5,140 steps)	50% male, 50% female	Snorunt
+360	Fairy, Mineral	20 (4,884–5,140 steps)	50% male, 50% female	Glalie
+361	Field, Water 1	20 (4,884–5,140 steps)	50% male, 50% female	Spheal
+362	Field, Water 1	20 (4,884–5,140 steps)	50% male, 50% female	Sealeo
+363	Field, Water 1	20 (4,884–5,140 steps)	50% male, 50% female	Walrein
+364	Water 1	20 (4,884–5,140 steps)	50% male, 50% female	Clamperl
+365	Water 1	20 (4,884–5,140 steps)	50% male, 50% female	Huntail
+366	Water 1	20 (4,884–5,140 steps)	50% male, 50% female	Gorebyss
+367	Water 1, Water 2	40 (10,024–10,280 steps)	87.5% male, 12.5% female	Relicanth
+368	Water 2	20 (4,884–5,140 steps)	25% male, 75% female	Luvdisc
+369	Dragon	40 (10,024–10,280 steps)	50% male, 50% female	Bagon
+370	Dragon	40 (10,024–10,280 steps)	50% male, 50% female	Shelgon
+371	Dragon	40 (10,024–10,280 steps)	50% male, 50% female	Salamence
+372	Mineral	40 (10,024–10,280 steps)	Genderless	Beldum
+373	Mineral	40 (10,024–10,280 steps)	Genderless	Metang
+374	Mineral	40 (10,024–10,280 steps)	Genderless	Metagross
+375	Undiscovered	80 (20,304–20,560 steps)	Genderless	Regirock
+376	Undiscovered	80 (20,304–20,560 steps)	Genderless	Regice
+377	Undiscovered	80 (20,304–20,560 steps)	Genderless	Registeel
+378	Undiscovered	120 (30,584–30,840 steps)	0% male, 100% female	Latias
+379	Undiscovered	120 (30,584–30,840 steps)	100% male, 0% female	Latios
+380	Undiscovered	120 (30,584–30,840 steps)	Genderless	Kyogre
+381	Undiscovered	120 (30,584–30,840 steps)	Genderless	Groudon
+382	Undiscovered	120 (30,584–30,840 steps)	Genderless	Rayquaza
+383	Undiscovered	120 (30,584–30,840 steps)	Genderless	Jirachi
+384	Undiscovered	120 (30,584–30,840 steps)	Genderless	Deoxys
+385	Grass, Monster	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Turtwig
+386	Grass, Monster	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Grotle
+387	Grass, Monster	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Torterra
+388	Field, Human-Like	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Chimchar
+389	Field, Human-Like	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Monferno
+390	Field, Human-Like	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Infernape
+391	Field, Water 1	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Piplup
+392	Field, Water 1	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Prinplup
+393	Field, Water 1	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Empoleon
+394	Flying	15 (3,599–3,855 steps)	50% male, 50% female	Starly
+395	Flying	15 (3,599–3,855 steps)	50% male, 50% female	Staravia
+396	Flying	15 (3,599–3,855 steps)	50% male, 50% female	Staraptor
+397	Field, Water 1	15 (3,599–3,855 steps)	50% male, 50% female	Bidoof
+398	Field, Water 1	15 (3,599–3,855 steps)	50% male, 50% female	Bibarel
+399	Bug	15 (3,599–3,855 steps)	50% male, 50% female	Kricketot
+400	Bug	15 (3,599–3,855 steps)	50% male, 50% female	Kricketune
+401	Field	20 (4,884–5,140 steps)	50% male, 50% female	Shinx
+402	Field	20 (4,884–5,140 steps)	50% male, 50% female	Luxio
+403	Field	20 (4,884–5,140 steps)	50% male, 50% female	Luxray
+404	Undiscovered	20 (4,884–5,140 steps)	50% male, 50% female	Budew
+405	Fairy, Grass	20 (4,884–5,140 steps)	50% male, 50% female	Roserade
+406	Monster	30 (7,454–7,710 steps)	87.5% male, 12.5% female	Cranidos
+407	Monster	30 (7,454–7,710 steps)	87.5% male, 12.5% female	Rampardos
+408	Monster	30 (7,454–7,710 steps)	87.5% male, 12.5% female	Shieldon
+409	Monster	30 (7,454–7,710 steps)	87.5% male, 12.5% female	Bastiodon
+410	Bug	15 (3,599–3,855 steps)	50% male, 50% female	Burmy
+411	Bug	15 (3,599–3,855 steps)	0% male, 100% female	Wormadam
+412	Bug	15 (3,599–3,855 steps)	100% male, 0% female	Mothim
+413	Bug	15 (3,599–3,855 steps)	87.5% male, 12.5% female	Combee
+414	Bug	15 (3,599–3,855 steps)	0% male, 100% female	Vespiquen
+415	Fairy, Field	10 (2,314–2,570 steps)	50% male, 50% female	Pachirisu
+416	Field, Water 1	20 (4,884–5,140 steps)	50% male, 50% female	Buizel
+417	Field, Water 1	20 (4,884–5,140 steps)	50% male, 50% female	Floatzel
+418	Fairy, Grass	20 (4,884–5,140 steps)	50% male, 50% female	Cherubi
+419	Fairy, Grass	20 (4,884–5,140 steps)	50% male, 50% female	Cherrim
+420	Amorphous, Water 1	20 (4,884–5,140 steps)	50% male, 50% female	Shellos
+421	Amorphous, Water 1	20 (4,884–5,140 steps)	50% male, 50% female	Gastrodon
+422	Field	20 (4,884–5,140 steps)	50% male, 50% female	Ambipom
+423	Amorphous	30 (7,454–7,710 steps)	50% male, 50% female	Drifloon
+424	Amorphous	30 (7,454–7,710 steps)	50% male, 50% female	Drifblim
+425	Field, Human-Like	20 (4,884–5,140 steps)	50% male, 50% female	Buneary
+426	Field, Human-Like	20 (4,884–5,140 steps)	50% male, 50% female	Lopunny
+427	Amorphous	25 (6,169–6,425 steps)	50% male, 50% female	Mismagius
+428	Flying	20 (4,884–5,140 steps)	50% male, 50% female	Honchkrow
+429	Field	20 (4,884–5,140 steps)	25% male, 75% female	Glameow
+430	Field	20 (4,884–5,140 steps)	25% male, 75% female	Purugly
+431	Undiscovered	25 (6,169–6,425 steps)	50% male, 50% female	Chingling
+432	Field	20 (4,884–5,140 steps)	50% male, 50% female	Stunky
+433	Field	20 (4,884–5,140 steps)	50% male, 50% female	Skuntank
+434	Mineral	20 (4,884–5,140 steps)	Genderless	Bronzor
+435	Mineral	20 (4,884–5,140 steps)	Genderless	Bronzong
+436	Undiscovered	20 (4,884–5,140 steps)	50% male, 50% female	Bonsly
+437	Undiscovered	25 (6,169–6,425 steps)	50% male, 50% female	Mime Jr.
+438	Undiscovered	40 (10,024–10,280 steps)	0% male, 100% female	Happiny
+439	Flying	20 (4,884–5,140 steps)	50% male, 50% female	Chatot
+440	Amorphous	30 (7,454–7,710 steps)	50% male, 50% female	Spiritomb
+441	Dragon, Monster	40 (10,024–10,280 steps)	50% male, 50% female	Gible
+442	Dragon, Monster	40 (10,024–10,280 steps)	50% male, 50% female	Gabite
+443	Dragon, Monster	40 (10,024–10,280 steps)	50% male, 50% female	Garchomp
+444	Undiscovered	40 (10,024–10,280 steps)	87.5% male, 12.5% female	Munchlax
+445	Undiscovered	25 (6,169–6,425 steps)	87.5% male, 12.5% female	Riolu
+446	Field, Human-Like	25 (6,169–6,425 steps)	87.5% male, 12.5% female	Lucario
+447	Field	30 (7,454–7,710 steps)	50% male, 50% female	Hippopotas
+448	Field	30 (7,454–7,710 steps)	50% male, 50% female	Hippowdon
+449	Bug, Water 3	20 (4,884–5,140 steps)	50% male, 50% female	Skorupi
+450	Bug, Water 3	20 (4,884–5,140 steps)	50% male, 50% female	Drapion
+451	Human-Like	10 (2,314–2,570 steps)	50% male, 50% female	Croagunk
+452	Human-Like	20 (4,884–5,140 steps)	50% male, 50% female	Toxicroak
+453	Grass	25 (6,169–6,425 steps)	50% male, 50% female	Carnivine
+454	Water 2	20 (4,884–5,140 steps)	50% male, 50% female	Finneon
+455	Water 2	20 (4,884–5,140 steps)	50% male, 50% female	Lumineon
+456	Undiscovered	25 (6,169–6,425 steps)	50% male, 50% female	Mantyke
+457	Grass, Monster	20 (4,884–5,140 steps)	50% male, 50% female	Snover
+458	Grass, Monster	20 (4,884–5,140 steps)	50% male, 50% female	Abomasnow
+459	Field	20 (4,884–5,140 steps)	50% male, 50% female	Weavile
+460	Mineral	20 (4,884–5,140 steps)	Genderless	Magnezone
+461	Monster	20 (4,884–5,140 steps)	50% male, 50% female	Lickilicky
+462	Field, Monster	20 (4,884–5,140 steps)	50% male, 50% female	Rhyperior
+463	Grass	20 (4,884–5,140 steps)	50% male, 50% female	Tangrowth
+464	Human-Like	25 (6,169–6,425 steps)	75% male, 25% female	Electivire
+465	Human-Like	25 (6,169–6,425 steps)	75% male, 25% female	Magmortar
+466	Fairy, Flying	10 (2,314–2,570 steps)	87.5% male, 12.5% female	Togekiss
+467	Bug	20 (4,884–5,140 steps)	50% male, 50% female	Yanmega
+468	Field	35 (8,739–8,995 steps)	87.5% male, 12.5% female	Leafeon
+469	Field	35 (8,739–8,995 steps)	87.5% male, 12.5% female	Glaceon
+470	Bug	20 (4,884–5,140 steps)	50% male, 50% female	Gliscor
+471	Field	20 (4,884–5,140 steps)	50% male, 50% female	Mamoswine
+472	Mineral	20 (4,884–5,140 steps)	Genderless	Porygon-Z
+473	Amorphous	20 (4,884–5,140 steps)	100% male, 0% female	Gallade
+474	Mineral	20 (4,884–5,140 steps)	50% male, 50% female	Probopass
+475	Amorphous	25 (6,169–6,425 steps)	50% male, 50% female	Dusknoir
+476	Fairy, Mineral	20 (4,884–5,140 steps)	0% male, 100% female	Froslass
+477	Amorphous	20 (4,884–5,140 steps)	Genderless	Rotom
+478	Undiscovered	80 (20,304–20,560 steps)	Genderless	Uxie
+479	Undiscovered	80 (20,304–20,560 steps)	Genderless	Mesprit
+480	Undiscovered	80 (20,304–20,560 steps)	Genderless	Azelf
+481	Undiscovered	120 (30,584–30,840 steps)	Genderless	Dialga
+482	Undiscovered	120 (30,584–30,840 steps)	Genderless	Palkia
+483	Undiscovered	10 (2,314–2,570 steps)	50% male, 50% female	Heatran
+484	Undiscovered	120 (30,584–30,840 steps)	Genderless	Regigigas
+485	Undiscovered	120 (30,584–30,840 steps)	Genderless	Giratina
+486	Undiscovered	120 (30,584–30,840 steps)	0% male, 100% female	Cresselia
+487	Fairy, Water 1	40 (10,024–10,280 steps)	Genderless	Phione
+488	Fairy, Water 1	10 (2,314–2,570 steps)	Genderless	Manaphy
+489	Undiscovered	120 (30,584–30,840 steps)	Genderless	Darkrai
+490	Undiscovered	120 (30,584–30,840 steps)	Genderless	Shaymin
+491	Undiscovered	120 (30,584–30,840 steps)	Genderless	Arceus
+492	Undiscovered	120 (30,584–30,840 steps)	Genderless	Victini
+493	Field, Grass	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Snivy
+494	Field, Grass	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Servine
+495	Field, Grass	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Serperior
+496	Field	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Tepig
+497	Field	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Pignite
+498	Field	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Emboar
+499	Field	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Oshawott
+500	Field	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Dewott
+501	Field	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Samurott
+502	Field	15 (3,599–3,855 steps)	50% male, 50% female	Patrat
+503	Field	20 (4,884–5,140 steps)	50% male, 50% female	Watchog
+504	Field	15 (3,599–3,855 steps)	50% male, 50% female	Lillipup
+505	Field	15 (3,599–3,855 steps)	50% male, 50% female	Herdier
+506	Field	15 (3,599–3,855 steps)	50% male, 50% female	Stoutland
+507	Field	20 (4,884–5,140 steps)	50% male, 50% female	Purrloin
+508	Field	20 (4,884–5,140 steps)	50% male, 50% female	Liepard
+509	Field	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Pansage
+510	Field	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Simisage
+511	Field	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Pansear
+512	Field	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Simisear
+513	Field	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Panpour
+514	Field	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Simipour
+515	Field	10 (2,314–2,570 steps)	50% male, 50% female	Munna
+516	Field	10 (2,314–2,570 steps)	50% male, 50% female	Musharna
+517	Flying	15 (3,599–3,855 steps)	50% male, 50% female	Pidove
+518	Flying	15 (3,599–3,855 steps)	50% male, 50% female	Tranquill
+519	Flying	15 (3,599–3,855 steps)	50% male, 50% female	Unfezant
+520	Field	20 (4,884–5,140 steps)	50% male, 50% female	Blitzle
+521	Field	20 (4,884–5,140 steps)	50% male, 50% female	Zebstrika
+522	Mineral	15 (3,599–3,855 steps)	50% male, 50% female	Roggenrola
+523	Mineral	15 (3,599–3,855 steps)	50% male, 50% female	Boldore
+524	Mineral	15 (3,599–3,855 steps)	50% male, 50% female	Gigalith
+525	Field, Flying	15 (3,599–3,855 steps)	50% male, 50% female	Woobat
+526	Field, Flying	15 (3,599–3,855 steps)	50% male, 50% female	Swoobat
+527	Field	20 (4,884–5,140 steps)	50% male, 50% female	Drilbur
+528	Field	20 (4,884–5,140 steps)	50% male, 50% female	Excadrill
+529	Fairy	20 (4,884–5,140 steps)	50% male, 50% female	Audino
+530	Human-Like	20 (4,884–5,140 steps)	75% male, 25% female	Timburr
+531	Human-Like	20 (4,884–5,140 steps)	75% male, 25% female	Gurdurr
+532	Human-Like	20 (4,884–5,140 steps)	75% male, 25% female	Conkeldurr
+533	Water 1	20 (4,884–5,140 steps)	50% male, 50% female	Tympole
+534	Water 1	20 (4,884–5,140 steps)	50% male, 50% female	Palpitoad
+535	Water 1	20 (4,884–5,140 steps)	50% male, 50% female	Seismitoad
+536	Human-Like	20 (4,884–5,140 steps)	100% male, 0% female	Throh
+537	Human-Like	20 (4,884–5,140 steps)	100% male, 0% female	Sawk
+538	Bug	15 (3,599–3,855 steps)	50% male, 50% female	Sewaddle
+539	Bug	15 (3,599–3,855 steps)	50% male, 50% female	Swadloon
+540	Bug	15 (3,599–3,855 steps)	50% male, 50% female	Leavanny
+541	Bug	15 (3,599–3,855 steps)	50% male, 50% female	Venipede
+542	Bug	15 (3,599–3,855 steps)	50% male, 50% female	Whirlipede
+543	Bug	20 (4,884–5,140 steps)	50% male, 50% female	Scolipede
+544	Fairy, Grass	20 (4,884–5,140 steps)	50% male, 50% female	Cottonee
+545	Fairy, Grass	20 (4,884–5,140 steps)	50% male, 50% female	Whimsicott
+546	Grass	20 (4,884–5,140 steps)	0% male, 100% female	Petilil
+547	Grass	20 (4,884–5,140 steps)	0% male, 100% female	Lilligant
+548	Water 2	40 (10,024–10,280 steps)	50% male, 50% female	Basculin
+549	Field	20 (4,884–5,140 steps)	50% male, 50% female	Sandile
+550	Field	20 (4,884–5,140 steps)	50% male, 50% female	Krokorok
+551	Field	20 (4,884–5,140 steps)	50% male, 50% female	Krookodile
+552	Field	20 (4,884–5,140 steps)	50% male, 50% female	Darumaka
+553	Field	20 (4,884–5,140 steps)	50% male, 50% female	Darmanitan
+554	Grass	20 (4,884–5,140 steps)	50% male, 50% female	Maractus
+555	Bug, Mineral	20 (4,884–5,140 steps)	50% male, 50% female	Dwebble
+556	Bug, Mineral	20 (4,884–5,140 steps)	50% male, 50% female	Crustle
+557	Dragon, Field	15 (3,599–3,855 steps)	50% male, 50% female	Scraggy
+558	Dragon, Field	15 (3,599–3,855 steps)	50% male, 50% female	Scrafty
+559	Flying	20 (4,884–5,140 steps)	50% male, 50% female	Sigilyph
+560	Amorphous, Mineral	25 (6,169–6,425 steps)	50% male, 50% female	Yamask
+561	Amorphous, Mineral	25 (6,169–6,425 steps)	50% male, 50% female	Cofagrigus
+562	Water 1, Water 3	30 (7,454–7,710 steps)	87.5% male, 12.5% female	Tirtouga
+563	Water 1, Water 3	30 (7,454–7,710 steps)	87.5% male, 12.5% female	Carracosta
+564	Flying, Water 3	30 (7,454–7,710 steps)	87.5% male, 12.5% female	Archen
+565	Flying, Water 3	30 (7,454–7,710 steps)	87.5% male, 12.5% female	Archeops
+566	Mineral	20 (4,884–5,140 steps)	50% male, 50% female	Trubbish
+567	Mineral	20 (4,884–5,140 steps)	50% male, 50% female	Garbodor
+568	Field	25 (6,169–6,425 steps)	87.5% male, 12.5% female	Zorua
+569	Field	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Zoroark
+570	Field	15 (3,599–3,855 steps)	25% male, 75% female	Minccino
+571	Field	15 (3,599–3,855 steps)	25% male, 75% female	Cinccino
+572	Human-Like	20 (4,884–5,140 steps)	25% male, 75% female	Gothita
+573	Human-Like	20 (4,884–5,140 steps)	25% male, 75% female	Gothorita
+574	Human-Like	20 (4,884–5,140 steps)	25% male, 75% female	Gothitelle
+575	Amorphous	20 (4,884–5,140 steps)	50% male, 50% female	Solosis
+576	Amorphous	20 (4,884–5,140 steps)	50% male, 50% female	Duosion
+577	Amorphous	20 (4,884–5,140 steps)	50% male, 50% female	Reuniclus
+578	Flying, Water 1	20 (4,884–5,140 steps)	50% male, 50% female	Ducklett
+579	Flying, Water 1	20 (4,884–5,140 steps)	50% male, 50% female	Swanna
+580	Mineral	20 (4,884–5,140 steps)	50% male, 50% female	Vanillite
+581	Mineral	20 (4,884–5,140 steps)	50% male, 50% female	Vanillish
+582	Mineral	20 (4,884–5,140 steps)	50% male, 50% female	Vanilluxe
+583	Field	20 (4,884–5,140 steps)	50% male, 50% female	Deerling
+584	Field	20 (4,884–5,140 steps)	50% male, 50% female	Sawsbuck
+585	Field	20 (4,884–5,140 steps)	50% male, 50% female	Emolga
+586	Bug	15 (3,599–3,855 steps)	50% male, 50% female	Karrablast
+587	Bug	15 (3,599–3,855 steps)	50% male, 50% female	Escavalier
+588	Grass	20 (4,884–5,140 steps)	50% male, 50% female	Foongus
+589	Grass	20 (4,884–5,140 steps)	50% male, 50% female	Amoonguss
+590	Amorphous	20 (4,884–5,140 steps)	50% male, 50% female	Frillish
+591	Amorphous	20 (4,884–5,140 steps)	50% male, 50% female	Jellicent
+592	Water 1, Water 2	40 (10,024–10,280 steps)	50% male, 50% female	Alomomola
+593	Bug	20 (4,884–5,140 steps)	50% male, 50% female	Joltik
+594	Bug	20 (4,884–5,140 steps)	50% male, 50% female	Galvantula
+595	Grass, Mineral	20 (4,884–5,140 steps)	50% male, 50% female	Ferroseed
+596	Grass, Mineral	20 (4,884–5,140 steps)	50% male, 50% female	Ferrothorn
+597	Mineral	20 (4,884–5,140 steps)	Genderless	Klink
+598	Mineral	20 (4,884–5,140 steps)	Genderless	Klang
+599	Mineral	20 (4,884–5,140 steps)	Genderless	Klinklang
+600	Amorphous	20 (4,884–5,140 steps)	50% male, 50% female	Tynamo
+601	Amorphous	20 (4,884–5,140 steps)	50% male, 50% female	Eelektrik
+602	Amorphous	20 (4,884–5,140 steps)	50% male, 50% female	Eelektross
+603	Human-Like	20 (4,884–5,140 steps)	50% male, 50% female	Elgyem
+604	Human-Like	20 (4,884–5,140 steps)	50% male, 50% female	Beheeyem
+605	Amorphous	20 (4,884–5,140 steps)	50% male, 50% female	Litwick
+606	Amorphous	20 (4,884–5,140 steps)	50% male, 50% female	Lampent
+607	Amorphous	20 (4,884–5,140 steps)	50% male, 50% female	Chandelure
+608	Dragon, Monster	40 (10,024–10,280 steps)	50% male, 50% female	Axew
+609	Dragon, Monster	40 (10,024–10,280 steps)	50% male, 50% female	Fraxure
+610	Dragon, Monster	40 (10,024–10,280 steps)	50% male, 50% female	Haxorus
+611	Field	20 (4,884–5,140 steps)	50% male, 50% female	Cubchoo
+612	Field	20 (4,884–5,140 steps)	50% male, 50% female	Beartic
+613	Mineral	25 (6,169–6,425 steps)	Genderless	Cryogonal
+614	Bug	15 (3,599–3,855 steps)	50% male, 50% female	Shelmet
+615	Bug	15 (3,599–3,855 steps)	50% male, 50% female	Accelgor
+616	Amorphous, Water 1	20 (4,884–5,140 steps)	50% male, 50% female	Stunfisk
+617	Field, Human-Like	25 (6,169–6,425 steps)	50% male, 50% female	Mienfoo
+618	Field, Human-Like	25 (6,169–6,425 steps)	50% male, 50% female	Mienshao
+619	Dragon, Monster	30 (7,454–7,710 steps)	50% male, 50% female	Druddigon
+620	Mineral	25 (6,169–6,425 steps)	Genderless	Golett
+621	Mineral	25 (6,169–6,425 steps)	Genderless	Golurk
+622	Human-Like	20 (4,884–5,140 steps)	50% male, 50% female	Pawniard
+623	Human-Like	20 (4,884–5,140 steps)	50% male, 50% female	Bisharp
+624	Field	20 (4,884–5,140 steps)	50% male, 50% female	Bouffalant
+625	Flying	20 (4,884–5,140 steps)	100% male, 0% female	Rufflet
+626	Flying	20 (4,884–5,140 steps)	100% male, 0% female	Braviary
+627	Flying	20 (4,884–5,140 steps)	0% male, 100% female	Vullaby
+628	Flying	20 (4,884–5,140 steps)	0% male, 100% female	Mandibuzz
+629	Field	20 (4,884–5,140 steps)	50% male, 50% female	Heatmor
+630	Bug	20 (4,884–5,140 steps)	50% male, 50% female	Durant
+631	Dragon	40 (10,024–10,280 steps)	50% male, 50% female	Deino
+632	Dragon	40 (10,024–10,280 steps)	50% male, 50% female	Zweilous
+633	Dragon	40 (10,024–10,280 steps)	50% male, 50% female	Hydreigon
+634	Bug	40 (10,024–10,280 steps)	50% male, 50% female	Larvesta
+635	Bug	40 (10,024–10,280 steps)	50% male, 50% female	Volcarona
+636	Undiscovered	80 (20,304–20,560 steps)	Genderless	Cobalion
+637	Undiscovered	80 (20,304–20,560 steps)	Genderless	Terrakion
+638	Undiscovered	80 (20,304–20,560 steps)	Genderless	Virizion
+639	Undiscovered	120 (30,584–30,840 steps)	100% male, 0% female	Tornadus
+640	Undiscovered	120 (30,584–30,840 steps)	100% male, 0% female	Thundurus
+641	Undiscovered	120 (30,584–30,840 steps)	Genderless	Reshiram
+642	Undiscovered	120 (30,584–30,840 steps)	Genderless	Zekrom
+643	Undiscovered	120 (30,584–30,840 steps)	100% male, 0% female	Landorus
+644	Undiscovered	120 (30,584–30,840 steps)	Genderless	Kyurem
+645	Undiscovered	80 (20,304–20,560 steps)	Genderless	Keldeo
+646	Undiscovered	120 (30,584–30,840 steps)	Genderless	Meloetta
+647	Undiscovered	120 (30,584–30,840 steps)	Genderless	Genesect
+648	Field	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Chespin
+649	Field	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Quilladin
+650	Field	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Chesnaught
+651	Field	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Fennekin
+652	Field	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Braixen
+653	Field	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Delphox
+654	Water 1	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Froakie
+655	Water 1	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Frogadier
+656	Water 1	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Greninja
+657	Field	15 (3,599–3,855 steps)	50% male, 50% female	Bunnelby
+658	Field	15 (3,599–3,855 steps)	50% male, 50% female	Diggersby
+659	Flying	15 (3,599–3,855 steps)	50% male, 50% female	Fletchling
+660	Flying	15 (3,599–3,855 steps)	50% male, 50% female	Fletchinder
+661	Flying	15 (3,599–3,855 steps)	50% male, 50% female	Talonflame
+662	Bug	15 (3,599–3,855 steps)	50% male, 50% female	Scatterbug
+663	Bug	15 (3,599–3,855 steps)	50% male, 50% female	Spewpa
+664	Bug	15 (3,599–3,855 steps)	50% male, 50% female	Vivillon
+665	Field	20 (4,884–5,140 steps)	25% male, 75% female	Litleo
+666	Field	20 (4,884–5,140 steps)	25% male, 75% female	Pyroar
+667	Fairy	20 (4,884–5,140 steps)	0% male, 100% female	Flabébé
+668	Fairy	20 (4,884–5,140 steps)	0% male, 100% female	Floette
+669	Fairy	20 (4,884–5,140 steps)	0% male, 100% female	Florges
+670	Field	20 (4,884–5,140 steps)	50% male, 50% female	Skiddo
+671	Field	20 (4,884–5,140 steps)	50% male, 50% female	Gogoat
+672	Field, Human-Like	25 (6,169–6,425 steps)	50% male, 50% female	Pancham
+673	Field, Human-Like	25 (6,169–6,425 steps)	50% male, 50% female	Pangoro
+674	Field	20 (4,884–5,140 steps)	50% male, 50% female	Furfrou
+675	Field	19 (4,627–4,883 steps)	50% male, 50% female	Espurr
+676	Field	20 (4,884–5,140 steps)	50% male, 50% female	Meowstic
+677	Mineral	20 (4,884–5,140 steps)	50% male, 50% female	Honedge
+678	Mineral	20 (4,884–5,140 steps)	50% male, 50% female	Doublade
+679	Mineral	20 (4,884–5,140 steps)	50% male, 50% female	Aegislash
+680	Fairy	20 (4,884–5,140 steps)	50% male, 50% female	Spritzee
+681	Fairy	20 (4,884–5,140 steps)	50% male, 50% female	Aromatisse
+682	Fairy	20 (4,884–5,140 steps)	50% male, 50% female	Swirlix
+683	Fairy	20 (4,884–5,140 steps)	50% male, 50% female	Slurpuff
+684	Water 1, Water 2	20 (4,884–5,140 steps)	50% male, 50% female	Inkay
+685	Water 1, Water 2	20 (4,884–5,140 steps)	50% male, 50% female	Malamar
+686	Water 3	20 (4,884–5,140 steps)	50% male, 50% female	Binacle
+687	Water 3	20 (4,884–5,140 steps)	50% male, 50% female	Barbaracle
+688	Dragon, Water 1	20 (4,884–5,140 steps)	50% male, 50% female	Skrelp
+689	Dragon, Water 1	20 (4,884–5,140 steps)	50% male, 50% female	Dragalge
+690	Water 1, Water 3	15 (3,599–3,855 steps)	50% male, 50% female	Clauncher
+691	Water 1, Water 3	15 (3,599–3,855 steps)	50% male, 50% female	Clawitzer
+692	Dragon, Monster	20 (4,884–5,140 steps)	50% male, 50% female	Helioptile
+693	Dragon, Monster	20 (4,884–5,140 steps)	50% male, 50% female	Heliolisk
+694	Dragon, Monster	30 (7,454–7,710 steps)	87.5% male, 12.5% female	Tyrunt
+695	Dragon, Monster	30 (7,454–7,710 steps)	87.5% male, 12.5% female	Tyrantrum
+696	Monster	30 (7,454–7,710 steps)	87.5% male, 12.5% female	Amaura
+697	Monster	30 (7,454–7,710 steps)	87.5% male, 12.5% female	Aurorus
+698	Field	35 (8,739–8,995 steps)	87.5% male, 12.5% female	Sylveon
+699	Human-Like	20 (4,884–5,140 steps)	50% male, 50% female	Hawlucha
+700	Fairy, Field	20 (4,884–5,140 steps)	50% male, 50% female	Dedenne
+701	Fairy, Mineral	25 (6,169–6,425 steps)	Genderless	Carbink
+702	Dragon	40 (10,024–10,280 steps)	50% male, 50% female	Goomy
+703	Dragon	40 (10,024–10,280 steps)	50% male, 50% female	Sliggoo
+704	Dragon	40 (10,024–10,280 steps)	50% male, 50% female	Goodra
+705	Mineral	20 (4,884–5,140 steps)	50% male, 50% female	Klefki
+706	Amorphous, Grass	20 (4,884–5,140 steps)	50% male, 50% female	Phantump
+707	Amorphous, Grass	20 (4,884–5,140 steps)	50% male, 50% female	Trevenant
+708	Amorphous	20 (4,884–5,140 steps)	50% male, 50% female	Pumpkaboo
+709	Amorphous	20 (4,884–5,140 steps)	50% male, 50% female	Gourgeist
+710	Monster	20 (4,884–5,140 steps)	50% male, 50% female	Bergmite
+711	Monster	20 (4,884–5,140 steps)	50% male, 50% female	Avalugg
+712	Flying	20 (4,884–5,140 steps)	50% male, 50% female	Noibat
+713	Flying	20 (4,884–5,140 steps)	50% male, 50% female	Noivern
+714	Undiscovered	120 (30,584–30,840 steps)	Genderless	Xerneas
+715	Undiscovered	120 (30,584–30,840 steps)	Genderless	Yveltal
+716	Undiscovered	120 (30,584–30,840 steps)	Genderless	Zygarde
+717	Undiscovered	25 (6,169–6,425 steps)	Genderless	Diancie
+718	Undiscovered	120 (30,584–30,840 steps)	Genderless	Hoopa
+719	Undiscovered	120 (30,584–30,840 steps)	Genderless	Volcanion
+720	Flying	15 (3,599–3,855 steps)	87.5% male, 12.5% female	Rowlet
+721	Flying	15 (3,599–3,855 steps)	87.5% male, 12.5% female	Dartrix
+722	Flying	15 (3,599–3,855 steps)	87.5% male, 12.5% female	Decidueye
+723	Field	15 (3,599–3,855 steps)	87.5% male, 12.5% female	Litten
+724	Field	15 (3,599–3,855 steps)	87.5% male, 12.5% female	Torracat
+725	Field	15 (3,599–3,855 steps)	87.5% male, 12.5% female	Incineroar
+726	Field, Water 1	15 (3,599–3,855 steps)	87.5% male, 12.5% female	Popplio
+727	Field, Water 1	15 (3,599–3,855 steps)	87.5% male, 12.5% female	Brionne
+728	Field, Water 1	15 (3,599–3,855 steps)	87.5% male, 12.5% female	Primarina
+729	Flying	15 (3,599–3,855 steps)	50% male, 50% female	Pikipek
+730	Flying	15 (3,599–3,855 steps)	50% male, 50% female	Trumbeak
+731	Flying	15 (3,599–3,855 steps)	50% male, 50% female	Toucannon
+732	Field	15 (3,599–3,855 steps)	50% male, 50% female	Yungoos
+733	Field	15 (3,599–3,855 steps)	50% male, 50% female	Gumshoos
+734	Bug	15 (3,599–3,855 steps)	50% male, 50% female	Grubbin
+735	Bug	15 (3,599–3,855 steps)	50% male, 50% female	Charjabug
+736	Bug	15 (3,599–3,855 steps)	50% male, 50% female	Vikavolt
+737	Water 3	20 (4,884–5,140 steps)	50% male, 50% female	Crabrawler
+738	Water 3	20 (4,884–5,140 steps)	50% male, 50% female	Crabominable
+739	Flying	20 (4,884–5,140 steps)	25% male, 75% female	Oricorio
+740	Bug, Fairy	20 (4,884–5,140 steps)	50% male, 50% female	Cutiefly
+741	Bug, Fairy	20 (4,884–5,140 steps)	50% male, 50% female	Ribombee
+742	Field	15 (3,599–3,855 steps)	50% male, 50% female	Rockruff
+743	Field	15 (3,599–3,855 steps)	50% male, 50% female	Lycanroc
+744	Water 2	15 (3,599–3,855 steps)	50% male, 50% female	Wishiwashi
+745	Water 1	20 (4,884–5,140 steps)	50% male, 50% female	Mareanie
+746	Water 1	20 (4,884–5,140 steps)	50% male, 50% female	Toxapex
+747	Field	20 (4,884–5,140 steps)	50% male, 50% female	Mudbray
+748	Field	20 (4,884–5,140 steps)	50% male, 50% female	Mudsdale
+749	Bug, Water 1	15 (3,599–3,855 steps)	50% male, 50% female	Dewpider
+750	Bug, Water 1	15 (3,599–3,855 steps)	50% male, 50% female	Araquanid
+751	Grass	20 (4,884–5,140 steps)	50% male, 50% female	Fomantis
+752	Grass	20 (4,884–5,140 steps)	50% male, 50% female	Lurantis
+753	Grass	20 (4,884–5,140 steps)	50% male, 50% female	Morelull
+754	Grass	20 (4,884–5,140 steps)	50% male, 50% female	Shiinotic
+755	Dragon, Monster	20 (4,884–5,140 steps)	87.5% male, 12.5% female	Salandit
+756	Dragon, Monster	20 (4,884–5,140 steps)	0% male, 100% female	Salazzle
+757	Field	15 (3,599–3,855 steps)	50% male, 50% female	Stufful
+758	Field	15 (3,599–3,855 steps)	50% male, 50% female	Bewear
+759	Grass	20 (4,884–5,140 steps)	0% male, 100% female	Bounsweet
+760	Grass	20 (4,884–5,140 steps)	0% male, 100% female	Steenee
+761	Grass	20 (4,884–5,140 steps)	0% male, 100% female	Tsareena
+762	Grass	20 (4,884–5,140 steps)	25% male, 75% female	Comfey
+763	Field	20 (4,884–5,140 steps)	50% male, 50% female	Oranguru
+764	Field	20 (4,884–5,140 steps)	50% male, 50% female	Passimian
+765	Bug, Water 3	20 (4,884–5,140 steps)	50% male, 50% female	Wimpod
+766	Bug, Water 3	20 (4,884–5,140 steps)	50% male, 50% female	Golisopod
+767	Amorphous	15 (3,599–3,855 steps)	50% male, 50% female	Sandygast
+768	Amorphous	15 (3,599–3,855 steps)	50% male, 50% female	Palossand
+769	Water 1	15 (3,599–3,855 steps)	50% male, 50% female	Pyukumuku
+770	Undiscovered	120 (30,584–30,840 steps)	Genderless	Type: Null
+771	Undiscovered	120 (30,584–30,840 steps)	Genderless	Silvally
+772	Mineral	25 (6,169–6,425 steps)	Genderless	Minior
+773	Field	20 (4,884–5,140 steps)	50% male, 50% female	Komala
+774	Dragon, Monster	20 (4,884–5,140 steps)	50% male, 50% female	Turtonator
+775	Fairy, Field	10 (2,314–2,570 steps)	50% male, 50% female	Togedemaru
+776	Amorphous	20 (4,884–5,140 steps)	50% male, 50% female	Mimikyu
+777	Water 2	15 (3,599–3,855 steps)	50% male, 50% female	Bruxish
+778	Dragon, Monster	20 (4,884–5,140 steps)	50% male, 50% female	Drampa
+779	Mineral	25 (6,169–6,425 steps)	Genderless	Dhelmise
+780	Dragon	40 (10,024–10,280 steps)	50% male, 50% female	Jangmo-o
+781	Dragon	40 (10,024–10,280 steps)	50% male, 50% female	Hakamo-o
+782	Dragon	40 (10,024–10,280 steps)	50% male, 50% female	Kommo-o
+783	Undiscovered	15 (3,599–3,855 steps)	Genderless	Tapu Koko
+784	Undiscovered	15 (3,599–3,855 steps)	Genderless	Tapu Lele
+785	Undiscovered	15 (3,599–3,855 steps)	Genderless	Tapu Bulu
+786	Undiscovered	15 (3,599–3,855 steps)	Genderless	Tapu Fini
+787	Undiscovered	120 (30,584–30,840 steps)	Genderless	Cosmog
+788	Undiscovered	120 (30,584–30,840 steps)	Genderless	Cosmoem
+789	Undiscovered	120 (30,584–30,840 steps)	Genderless	Solgaleo
+790	Undiscovered	120 (30,584–30,840 steps)	Genderless	Lunala
+791	Undiscovered	120 (30,584–30,840 steps)	Genderless	Nihilego
+792	Undiscovered	120 (30,584–30,840 steps)	Genderless	Buzzwole
+793	Undiscovered	120 (30,584–30,840 steps)	Genderless	Pheromosa
+794	Undiscovered	120 (30,584–30,840 steps)	Genderless	Xurkitree
+795	Undiscovered	120 (30,584–30,840 steps)	Genderless	Celesteela
+796	Undiscovered	120 (30,584–30,840 steps)	Genderless	Kartana
+797	Undiscovered	120 (30,584–30,840 steps)	Genderless	Guzzlord
+798	Undiscovered	120 (30,584–30,840 steps)	Genderless	Necrozma
+799	Undiscovered	120 (30,584–30,840 steps)	Genderless	Magearna
+800	Undiscovered	120 (30,584–30,840 steps)	Genderless	Marshadow
+801	Undiscovered	120 (30,584–30,840 steps)	Genderless	Poipole
+802	Undiscovered	120 (30,584–30,840 steps)	Genderless	Naganadel
+803	Undiscovered	120 (30,584–30,840 steps)	Genderless	Stakataka
+804	Undiscovered	120 (30,584–30,840 steps)	Genderless	Blacephalon
+805	Undiscovered	120 (30,584–30,840 steps)	Genderless	Zeraora

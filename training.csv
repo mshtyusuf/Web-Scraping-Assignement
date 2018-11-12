@@ -1,0 +1,807 @@
+	Base Exp.	Base Friendship	Catch rate	EV yield	Growth Rate	name
+0	142	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Special Attack, 1 Special Defense	Medium Slow	Ivysaur
+1	236	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Special Attack, 1 Special Defense	Medium Slow	Venusaur
+2	62	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Speed	Medium Slow	Charmander
+3	142	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Special Attack, 1 Speed	Medium Slow	Charmeleon
+4	240	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Special Attack	Medium Slow	Charizard
+5	63	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Defense	Medium Slow	Squirtle
+6	142	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Defense, 1 Special Defense	Medium Slow	Wartortle
+7	239	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Special Defense	Medium Slow	Blastoise
+8	39	70 (normal)	255 (33.3% with PokéBall, full HP)	1 HP	Medium Fast	Caterpie
+9	72	70 (normal)	120 (15.7% with PokéBall, full HP)	2 Defense	Medium Fast	Metapod
+10	178	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Special Attack, 1 Special Defense	Medium Fast	Butterfree
+11	39	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Speed	Medium Fast	Weedle
+12	72	70 (normal)	120 (15.7% with PokéBall, full HP)	2 Defense	Medium Fast	Kakuna
+13	178	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Attack, 1 Special Defense	Medium Fast	Beedrill
+14	50	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Speed	Medium Slow	Pidgey
+15	122	70 (normal)	120 (15.7% with PokéBall, full HP)	2 Speed	Medium Slow	Pidgeotto
+16	216	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Speed	Medium Slow	Pidgeot
+17	51	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Speed	Medium Fast	Rattata
+18	145	70 (normal)	127 (16.6% with PokéBall, full HP)	2 Speed	Medium Fast	Raticate
+19	52	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Speed	Medium Fast	Spearow
+20	155	70 (normal)	90 (11.8% with PokéBall, full HP)	2 Speed	Medium Fast	Fearow
+21	58	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Attack	Medium Fast	Ekans
+22	157	70 (normal)	90 (11.8% with PokéBall, full HP)	2 Attack	Medium Fast	Arbok
+23	112	70 (normal)	190 (24.8% with PokéBall, full HP)	2 Speed	Medium Fast	Pikachu
+24	218	70 (normal)	75 (9.8% with PokéBall, full HP)	3 Speed	Medium Fast	Raichu
+25	60	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Defense	Medium Fast	Sandshrew
+26	158	70 (normal)	90 (11.8% with PokéBall, full HP)	2 Defense	Medium Fast	Sandslash
+27	55	70 (normal)	235 (30.7% with PokéBall, full HP)	1 HP	Medium Slow	Nidoran♀
+28	128	70 (normal)	120 (15.7% with PokéBall, full HP)	2 HP	Medium Slow	Nidorina
+29	227	70 (normal)	45 (5.9% with PokéBall, full HP)	3 HP	Medium Slow	Nidoqueen
+30	55	70 (normal)	235 (30.7% with PokéBall, full HP)	1 Attack	Medium Slow	Nidoran♂
+31	128	70 (normal)	120 (15.7% with PokéBall, full HP)	2 Attack	Medium Slow	Nidorino
+32	227	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Attack	Medium Slow	Nidoking
+33	113	140 (higher than normal)	150 (19.6% with PokéBall, full HP)	2 HP	Fast	Clefairy
+34	217	140 (higher than normal)	25 (3.3% with PokéBall, full HP)	3 HP	Fast	Clefable
+35	60	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Speed	Medium Fast	Vulpix
+36	177	70 (normal)	75 (9.8% with PokéBall, full HP)	1 Special Defense, 1 Speed	Medium Fast	Ninetales
+37	95	70 (normal)	170 (22.2% with PokéBall, full HP)	2 HP	Fast	Jigglypuff
+38	196	70 (normal)	50 (6.5% with PokéBall, full HP)	3 HP	Fast	Wigglytuff
+39	49	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Speed	Medium Fast	Zubat
+40	159	70 (normal)	90 (11.8% with PokéBall, full HP)	2 Speed	Medium Fast	Golbat
+41	64	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Special Attack	Medium Slow	Oddish
+42	138	70 (normal)	120 (15.7% with PokéBall, full HP)	2 Special Attack	Medium Slow	Gloom
+43	221	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Special Attack	Medium Slow	Vileplume
+44	57	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Attack	Medium Fast	Paras
+45	142	70 (normal)	75 (9.8% with PokéBall, full HP)	2 Attack, 1 Defense	Medium Fast	Parasect
+46	61	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Special Defense	Medium Fast	Venonat
+47	158	70 (normal)	75 (9.8% with PokéBall, full HP)	1 Special Attack, 1 Speed	Medium Fast	Venomoth
+48	53	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Speed	Medium Fast	Diglett
+49	149	70 (normal)	50 (6.5% with PokéBall, full HP)	2 Speed	Medium Fast	Dugtrio
+50	58	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Speed	Medium Fast	Meowth
+51	154	70 (normal)	90 (11.8% with PokéBall, full HP)	2 Speed	Medium Fast	Persian
+52	64	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Special Attack	Medium Fast	Psyduck
+53	175	70 (normal)	75 (9.8% with PokéBall, full HP)	2 Special Attack	Medium Fast	Golduck
+54	61	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Attack	Medium Fast	Mankey
+55	159	70 (normal)	75 (9.8% with PokéBall, full HP)	2 Attack	Medium Fast	Primeape
+56	70	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Attack	Slow	Growlithe
+57	194	70 (normal)	75 (9.8% with PokéBall, full HP)	2 Attack	Slow	Arcanine
+58	60	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Speed	Medium Slow	Poliwag
+59	135	70 (normal)	120 (15.7% with PokéBall, full HP)	2 Speed	Medium Slow	Poliwhirl
+60	230	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Defense	Medium Slow	Poliwrath
+61	62	70 (normal)	200 (26.1% with PokéBall, full HP)	1 Special Attack	Medium Slow	Abra
+62	140	70 (normal)	100 (13.1% with PokéBall, full HP)	2 Special Attack	Medium Slow	Kadabra
+63	225	70 (normal)	50 (6.5% with PokéBall, full HP)	3 Special Attack	Medium Slow	Alakazam
+64	61	70 (normal)	180 (23.5% with PokéBall, full HP)	1 Attack	Medium Slow	Machop
+65	142	70 (normal)	90 (11.8% with PokéBall, full HP)	2 Attack	Medium Slow	Machoke
+66	227	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Attack	Medium Slow	Machamp
+67	60	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Attack	Medium Slow	Bellsprout
+68	137	70 (normal)	120 (15.7% with PokéBall, full HP)	2 Attack	Medium Slow	Weepinbell
+69	221	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Attack	Medium Slow	Victreebel
+70	67	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Special Defense	Slow	Tentacool
+71	180	70 (normal)	60 (7.8% with PokéBall, full HP)	2 Special Defense	Slow	Tentacruel
+72	60	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Defense	Medium Slow	Geodude
+73	137	70 (normal)	120 (15.7% with PokéBall, full HP)	2 Defense	Medium Slow	Graveler
+74	223	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Defense	Medium Slow	Golem
+75	82	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Speed	Medium Fast	Ponyta
+76	175	70 (normal)	60 (7.8% with PokéBall, full HP)	2 Speed	Medium Fast	Rapidash
+77	63	70 (normal)	190 (24.8% with PokéBall, full HP)	1 HP	Medium Fast	Slowpoke
+78	172	70 (normal)	75 (9.8% with PokéBall, full HP)	2 Defense	Medium Fast	Slowbro
+79	65	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Special Attack	Medium Fast	Magnemite
+80	163	70 (normal)	60 (7.8% with PokéBall, full HP)	2 Special Attack	Medium Fast	Magneton
+81	132	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Attack	Medium Fast	Farfetch'd
+82	62	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Attack	Medium Fast	Doduo
+83	165	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Attack	Medium Fast	Dodrio
+84	65	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Special Defense	Medium Fast	Seel
+85	166	70 (normal)	75 (9.8% with PokéBall, full HP)	2 Special Defense	Medium Fast	Dewgong
+86	65	70 (normal)	190 (24.8% with PokéBall, full HP)	1 HP	Medium Fast	Grimer
+87	175	70 (normal)	75 (9.8% with PokéBall, full HP)	1 HP, 1 Attack	Medium Fast	Muk
+88	61	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Defense	Slow	Shellder
+89	184	70 (normal)	60 (7.8% with PokéBall, full HP)	2 Defense	Slow	Cloyster
+90	62	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Special Attack	Medium Slow	Gastly
+91	142	70 (normal)	90 (11.8% with PokéBall, full HP)	2 Special Attack	Medium Slow	Haunter
+92	225	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Special Attack	Medium Slow	Gengar
+93	77	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Defense	Medium Fast	Onix
+94	66	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Special Defense	Medium Fast	Drowzee
+95	169	70 (normal)	75 (9.8% with PokéBall, full HP)	2 Special Defense	Medium Fast	Hypno
+96	65	70 (normal)	225 (29.4% with PokéBall, full HP)	1 Attack	Medium Fast	Krabby
+97	166	70 (normal)	60 (7.8% with PokéBall, full HP)	2 Attack	Medium Fast	Kingler
+98	66	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Speed	Medium Fast	Voltorb
+99	172	70 (normal)	60 (7.8% with PokéBall, full HP)	2 Speed	Medium Fast	Electrode
+100	65	70 (normal)	90 (11.8% with PokéBall, full HP)	1 Defense	Slow	Exeggcute
+101	186	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Special Attack	Slow	Exeggutor
+102	64	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Defense	Medium Fast	Cubone
+103	149	70 (normal)	75 (9.8% with PokéBall, full HP)	2 Defense	Medium Fast	Marowak
+104	159	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Attack	Medium Fast	Hitmonlee
+105	159	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Special Defense	Medium Fast	Hitmonchan
+106	77	70 (normal)	45 (5.9% with PokéBall, full HP)	2 HP	Medium Fast	Lickitung
+107	68	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Defense	Medium Fast	Koffing
+108	172	70 (normal)	60 (7.8% with PokéBall, full HP)	2 Defense	Medium Fast	Weezing
+109	69	70 (normal)	120 (15.7% with PokéBall, full HP)	1 Defense	Slow	Rhyhorn
+110	170	70 (normal)	60 (7.8% with PokéBall, full HP)	2 Attack	Slow	Rhydon
+111	395	140 (higher than normal)	30 (3.9% with PokéBall, full HP)	2 HP	Fast	Chansey
+112	87	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Defense	Medium Fast	Tangela
+113	172	70 (normal)	45 (5.9% with PokéBall, full HP)	2 HP	Medium Fast	Kangaskhan
+114	59	70 (normal)	225 (29.4% with PokéBall, full HP)	1 Special Attack	Medium Fast	Horsea
+115	154	70 (normal)	75 (9.8% with PokéBall, full HP)	1 Defense, 1 Special Attack	Medium Fast	Seadra
+116	64	70 (normal)	225 (29.4% with PokéBall, full HP)	1 Attack	Medium Fast	Goldeen
+117	158	70 (normal)	60 (7.8% with PokéBall, full HP)	2 Attack	Medium Fast	Seaking
+118	68	70 (normal)	225 (29.4% with PokéBall, full HP)	1 Speed	Slow	Staryu
+119	182	70 (normal)	60 (7.8% with PokéBall, full HP)	2 Speed	Slow	Starmie
+120	161	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Special Defense	Medium Fast	Mr. Mime
+121	100	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Attack	Medium Fast	Scyther
+122	159	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Special Attack	Medium Fast	Jynx
+123	172	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Speed	Medium Fast	Electabuzz
+124	173	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Special Attack	Medium Fast	Magmar
+125	175	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Attack	Slow	Pinsir
+126	172	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Attack, 1 Speed	Slow	Tauros
+127	40	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Speed	Slow	Magikarp
+128	189	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Attack	Slow	Gyarados
+129	187	70 (normal)	45 (5.9% with PokéBall, full HP)	2 HP	Slow	Lapras
+130	101	70 (normal)	35 (4.6% with PokéBall, full HP)	1 HP	Medium Fast	Ditto
+131	65	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Special Defense	Medium Fast	Eevee
+132	184	70 (normal)	45 (5.9% with PokéBall, full HP)	2 HP	Medium Fast	Vaporeon
+133	184	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Speed	Medium Fast	Jolteon
+134	184	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Attack	Medium Fast	Flareon
+135	79	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Special Attack	Medium Fast	Porygon
+136	71	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Defense	Medium Fast	Omanyte
+137	173	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Defense	Medium Fast	Omastar
+138	71	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Defense	Medium Fast	Kabuto
+139	173	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Attack	Medium Fast	Kabutops
+140	180	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Speed	Slow	Aerodactyl
+141	189	70 (normal)	25 (3.3% with PokéBall, full HP)	2 HP	Slow	Snorlax
+142	261	35 (lower than normal)	3 (0.4% with PokéBall, full HP)	3 Special Defense	Slow	Articuno
+143	261	35 (lower than normal)	3 (0.4% with PokéBall, full HP)	3 Special Attack	Slow	Zapdos
+144	261	35 (lower than normal)	3 (0.4% with PokéBall, full HP)	3 Special Attack	Slow	Moltres
+145	60	35 (lower than normal)	45 (5.9% with PokéBall, full HP)	1 Attack	Slow	Dratini
+146	147	35 (lower than normal)	45 (5.9% with PokéBall, full HP)	2 Attack	Slow	Dragonair
+147	270	35 (lower than normal)	45 (5.9% with PokéBall, full HP)	3 Attack	Slow	Dragonite
+148	306	0 (lower than normal)	3 (0.4% with PokéBall, full HP)	3 Special Attack	Slow	Mewtwo
+149	270	100 (higher than normal)	45 (5.9% with PokéBall, full HP)	3 HP	Medium Slow	Mew
+150	64	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Special Defense	Medium Slow	Chikorita
+151	142	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Defense, 1 Special Defense	Medium Slow	Bayleef
+152	236	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Defense, 2 Special Defense	Medium Slow	Meganium
+153	62	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Speed	Medium Slow	Cyndaquil
+154	142	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Special Attack, 1 Speed	Medium Slow	Quilava
+155	240	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Special Attack	Medium Slow	Typhlosion
+156	63	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Attack	Medium Slow	Totodile
+157	142	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Attack, 1 Defense	Medium Slow	Croconaw
+158	239	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Attack, 1 Defense	Medium Slow	Feraligatr
+159	43	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Attack	Medium Fast	Sentret
+160	145	70 (normal)	90 (11.8% with PokéBall, full HP)	2 Speed	Medium Fast	Furret
+161	52	70 (normal)	255 (33.3% with PokéBall, full HP)	1 HP	Medium Fast	Hoothoot
+162	158	70 (normal)	90 (11.8% with PokéBall, full HP)	2 HP	Medium Fast	Noctowl
+163	53	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Special Defense	Fast	Ledyba
+164	137	70 (normal)	90 (11.8% with PokéBall, full HP)	2 Special Defense	Fast	Ledian
+165	50	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Attack	Fast	Spinarak
+166	140	70 (normal)	90 (11.8% with PokéBall, full HP)	2 Attack	Fast	Ariados
+167	241	70 (normal)	90 (11.8% with PokéBall, full HP)	3 Speed	Medium Fast	Crobat
+168	66	70 (normal)	190 (24.8% with PokéBall, full HP)	1 HP	Slow	Chinchou
+169	161	70 (normal)	75 (9.8% with PokéBall, full HP)	2 HP	Slow	Lanturn
+170	41	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Speed	Medium Fast	Pichu
+171	44	140 (higher than normal)	150 (19.6% with PokéBall, full HP)	1 Special Defense	Fast	Cleffa
+172	42	70 (normal)	170 (22.2% with PokéBall, full HP)	1 HP	Fast	Igglybuff
+173	49	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Special Defense	Fast	Togepi
+174	142	70 (normal)	75 (9.8% with PokéBall, full HP)	2 Special Defense	Fast	Togetic
+175	64	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Special Attack	Medium Fast	Natu
+176	165	70 (normal)	75 (9.8% with PokéBall, full HP)	1 Special Attack, 1 Speed	Medium Fast	Xatu
+177	56	70 (normal)	235 (30.7% with PokéBall, full HP)	1 Special Attack	Medium Slow	Mareep
+178	128	70 (normal)	120 (15.7% with PokéBall, full HP)	2 Special Attack	Medium Slow	Flaaffy
+179	230	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Special Attack	Medium Slow	Ampharos
+180	221	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Special Defense	Medium Slow	Bellossom
+181	88	70 (normal)	190 (24.8% with PokéBall, full HP)	2 HP	Fast	Marill
+182	189	70 (normal)	75 (9.8% with PokéBall, full HP)	3 HP	Fast	Azumarill
+183	144	70 (normal)	65 (8.5% with PokéBall, full HP)	2 Defense	Medium Fast	Sudowoodo
+184	225	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Special Defense	Medium Slow	Politoed
+185	50	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Special Defense	Medium Slow	Hoppip
+186	119	70 (normal)	120 (15.7% with PokéBall, full HP)	2 Speed	Medium Slow	Skiploom
+187	207	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Speed	Medium Slow	Jumpluff
+188	72	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Speed	Fast	Aipom
+189	36	70 (normal)	235 (30.7% with PokéBall, full HP)	1 Special Attack	Medium Slow	Sunkern
+190	149	70 (normal)	120 (15.7% with PokéBall, full HP)	2 Special Attack	Medium Slow	Sunflora
+191	78	70 (normal)	75 (9.8% with PokéBall, full HP)	1 Speed	Medium Fast	Yanma
+192	42	70 (normal)	255 (33.3% with PokéBall, full HP)	1 HP	Medium Fast	Wooper
+193	151	70 (normal)	90 (11.8% with PokéBall, full HP)	2 HP	Medium Fast	Quagsire
+194	184	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Special Attack	Medium Fast	Espeon
+195	184	35 (lower than normal)	45 (5.9% with PokéBall, full HP)	2 Special Defense	Medium Fast	Umbreon
+196	81	35 (lower than normal)	30 (3.9% with PokéBall, full HP)	1 Speed	Medium Slow	Murkrow
+197	172	70 (normal)	70 (9.1% with PokéBall, full HP)	3 Special Defense	Medium Fast	Slowking
+198	87	35 (lower than normal)	45 (5.9% with PokéBall, full HP)	1 Special Defense	Fast	Misdreavus
+199	118	70 (normal)	225 (29.4% with PokéBall, full HP)	1 Attack, 1 Special Attack	Medium Fast	Unown
+200	142	70 (normal)	45 (5.9% with PokéBall, full HP)	2 HP	Medium Fast	Wobbuffet
+201	159	70 (normal)	60 (7.8% with PokéBall, full HP)	2 Special Attack	Medium Fast	Girafarig
+202	58	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Defense	Medium Fast	Pineco
+203	163	70 (normal)	75 (9.8% with PokéBall, full HP)	2 Defense	Medium Fast	Forretress
+204	145	70 (normal)	190 (24.8% with PokéBall, full HP)	1 HP	Medium Fast	Dunsparce
+205	86	70 (normal)	60 (7.8% with PokéBall, full HP)	1 Defense	Medium Slow	Gligar
+206	179	70 (normal)	25 (3.3% with PokéBall, full HP)	2 Defense	Medium Fast	Steelix
+207	60	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Attack	Fast	Snubbull
+208	158	70 (normal)	75 (9.8% with PokéBall, full HP)	2 Attack	Fast	Granbull
+209	88	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Attack	Medium Fast	Qwilfish
+210	175	70 (normal)	25 (3.3% with PokéBall, full HP)	2 Attack	Medium Fast	Scizor
+211	177	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Defense, 1 Special Defense	Medium Slow	Shuckle
+212	175	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Attack	Slow	Heracross
+213	86	35 (lower than normal)	60 (7.8% with PokéBall, full HP)	1 Speed	Medium Slow	Sneasel
+214	66	70 (normal)	120 (15.7% with PokéBall, full HP)	1 Attack	Medium Fast	Teddiursa
+215	175	70 (normal)	60 (7.8% with PokéBall, full HP)	2 Attack	Medium Fast	Ursaring
+216	50	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Special Attack	Medium Fast	Slugma
+217	151	70 (normal)	75 (9.8% with PokéBall, full HP)	2 Defense	Medium Fast	Magcargo
+218	50	70 (normal)	225 (29.4% with PokéBall, full HP)	1 Attack	Slow	Swinub
+219	158	70 (normal)	75 (9.8% with PokéBall, full HP)	1 HP, 1 Attack	Slow	Piloswine
+220	144	70 (normal)	60 (7.8% with PokéBall, full HP)	1 Defense, 1 Special Defense	Fast	Corsola
+221	60	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Special Attack	Medium Fast	Remoraid
+222	168	70 (normal)	75 (9.8% with PokéBall, full HP)	1 Attack, 1 Special Attack	Medium Fast	Octillery
+223	116	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Speed	Fast	Delibird
+224	170	70 (normal)	25 (3.3% with PokéBall, full HP)	2 Special Defense	Slow	Mantine
+225	163	70 (normal)	25 (3.3% with PokéBall, full HP)	2 Defense	Slow	Skarmory
+226	66	35 (lower than normal)	120 (15.7% with PokéBall, full HP)	1 Special Attack	Slow	Houndour
+227	175	35 (lower than normal)	45 (5.9% with PokéBall, full HP)	2 Special Attack	Slow	Houndoom
+228	243	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Attack, 1 Special Attack, 1 Special Defense	Medium Fast	Kingdra
+229	66	70 (normal)	120 (15.7% with PokéBall, full HP)	1 HP	Medium Fast	Phanpy
+230	175	70 (normal)	60 (7.8% with PokéBall, full HP)	1 Attack, 1 Defense	Medium Fast	Donphan
+231	180	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Special Attack	Medium Fast	Porygon2
+232	163	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Attack	Slow	Stantler
+233	88	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Speed	Fast	Smeargle
+234	42	70 (normal)	75 (9.8% with PokéBall, full HP)	1 Attack	Medium Fast	Tyrogue
+235	159	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Special Defense	Medium Fast	Hitmontop
+236	61	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Special Attack	Medium Fast	Smoochum
+237	72	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Speed	Medium Fast	Elekid
+238	73	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Speed	Medium Fast	Magby
+239	172	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Defense	Slow	Miltank
+240	608	140 (higher than normal)	30 (3.9% with PokéBall, full HP)	3 HP	Fast	Blissey
+241	261	35 (lower than normal)	3 (0.4% with PokéBall, full HP)	1 Special Attack, 2 Speed	Slow	Raikou
+242	261	35 (lower than normal)	3 (0.4% with PokéBall, full HP)	1 HP, 2 Attack	Slow	Entei
+243	261	35 (lower than normal)	3 (0.4% with PokéBall, full HP)	1 Defense, 2 Special Defense	Slow	Suicune
+244	60	35 (lower than normal)	45 (5.9% with PokéBall, full HP)	1 Attack	Slow	Larvitar
+245	144	35 (lower than normal)	45 (5.9% with PokéBall, full HP)	2 Attack	Slow	Pupitar
+246	270	35 (lower than normal)	45 (5.9% with PokéBall, full HP)	3 Attack	Slow	Tyranitar
+247	306	0 (lower than normal)	3 (0.4% with PokéBall, full HP)	3 Special Defense	Slow	Lugia
+248	306	0 (lower than normal)	3 (0.4% with PokéBall, full HP)	3 Special Defense	Slow	Ho-oh
+249	270	100 (higher than normal)	45 (5.9% with PokéBall, full HP)	3 HP	Medium Slow	Celebi
+250	62	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Speed	Medium Slow	Treecko
+251	142	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Speed	Medium Slow	Grovyle
+252	239	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Speed	Medium Slow	Sceptile
+253	62	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Special Attack	Medium Slow	Torchic
+254	142	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Attack, 1 Special Attack	Medium Slow	Combusken
+255	239	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Attack	Medium Slow	Blaziken
+256	62	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Attack	Medium Slow	Mudkip
+257	142	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Attack	Medium Slow	Marshtomp
+258	241	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Attack	Medium Slow	Swampert
+259	56	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Attack	Medium Fast	Poochyena
+260	147	70 (normal)	127 (16.6% with PokéBall, full HP)	2 Attack	Medium Fast	Mightyena
+261	56	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Speed	Medium Fast	Zigzagoon
+262	147	70 (normal)	90 (11.8% with PokéBall, full HP)	2 Speed	Medium Fast	Linoone
+263	56	70 (normal)	255 (33.3% with PokéBall, full HP)	1 HP	Medium Fast	Wurmple
+264	72	70 (normal)	120 (15.7% with PokéBall, full HP)	2 Defense	Medium Fast	Silcoon
+265	178	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Special Attack	Medium Fast	Beautifly
+266	72	70 (normal)	120 (15.7% with PokéBall, full HP)	2 Defense	Medium Fast	Cascoon
+267	173	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Special Defense	Medium Fast	Dustox
+268	44	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Special Defense	Medium Slow	Lotad
+269	119	70 (normal)	120 (15.7% with PokéBall, full HP)	2 Special Defense	Medium Slow	Lombre
+270	216	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Special Defense	Medium Slow	Ludicolo
+271	44	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Defense	Medium Slow	Seedot
+272	119	70 (normal)	120 (15.7% with PokéBall, full HP)	2 Attack	Medium Slow	Nuzleaf
+273	216	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Attack	Medium Slow	Shiftry
+274	54	70 (normal)	200 (26.1% with PokéBall, full HP)	1 Speed	Medium Slow	Taillow
+275	159	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Speed	Medium Slow	Swellow
+276	54	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Speed	Medium Fast	Wingull
+277	154	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Defense	Medium Fast	Pelipper
+278	40	35 (lower than normal)	235 (30.7% with PokéBall, full HP)	1 Special Attack	Slow	Ralts
+279	97	35 (lower than normal)	120 (15.7% with PokéBall, full HP)	2 Special Attack	Slow	Kirlia
+280	233	35 (lower than normal)	45 (5.9% with PokéBall, full HP)	3 Special Attack	Slow	Gardevoir
+281	54	70 (normal)	200 (26.1% with PokéBall, full HP)	1 Speed	Medium Fast	Surskit
+282	159	70 (normal)	75 (9.8% with PokéBall, full HP)	1 Special Attack, 1 Special Defense	Medium Fast	Masquerain
+283	59	70 (normal)	255 (33.3% with PokéBall, full HP)	1 HP	Fluctuating	Shroomish
+284	161	70 (normal)	90 (11.8% with PokéBall, full HP)	2 Attack	Fluctuating	Breloom
+285	56	70 (normal)	255 (33.3% with PokéBall, full HP)	1 HP	Slow	Slakoth
+286	154	70 (normal)	120 (15.7% with PokéBall, full HP)	2 Speed	Slow	Vigoroth
+287	252	70 (normal)	45 (5.9% with PokéBall, full HP)	3 HP	Slow	Slaking
+288	53	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Defense	Erratic	Nincada
+289	160	70 (normal)	120 (15.7% with PokéBall, full HP)	2 Speed	Erratic	Ninjask
+290	83	70 (normal)	45 (5.9% with PokéBall, full HP)	2 HP	Erratic	Shedinja
+291	48	70 (normal)	190 (24.8% with PokéBall, full HP)	1 HP	Medium Slow	Whismur
+292	126	70 (normal)	120 (15.7% with PokéBall, full HP)	2 HP	Medium Slow	Loudred
+293	221	70 (normal)	45 (5.9% with PokéBall, full HP)	3 HP	Medium Slow	Exploud
+294	47	70 (normal)	180 (23.5% with PokéBall, full HP)	1 HP	Fluctuating	Makuhita
+295	166	70 (normal)	200 (26.1% with PokéBall, full HP)	2 HP	Fluctuating	Hariyama
+296	38	70 (normal)	150 (19.6% with PokéBall, full HP)	1 HP	Fast	Azurill
+297	75	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Defense	Medium Fast	Nosepass
+298	52	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Speed	Fast	Skitty
+299	140	70 (normal)	60 (7.8% with PokéBall, full HP)	1 HP, 1 Speed	Fast	Delcatty
+300	133	35 (lower than normal)	45 (5.9% with PokéBall, full HP)	1 Attack, 1 Defense	Medium Slow	Sableye
+301	133	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Attack, 1 Defense	Fast	Mawile
+302	66	35 (lower than normal)	180 (23.5% with PokéBall, full HP)	1 Defense	Slow	Aron
+303	151	35 (lower than normal)	90 (11.8% with PokéBall, full HP)	2 Defense	Slow	Lairon
+304	239	35 (lower than normal)	45 (5.9% with PokéBall, full HP)	3 Defense	Slow	Aggron
+305	56	70 (normal)	180 (23.5% with PokéBall, full HP)	1 Speed	Medium Fast	Meditite
+306	144	70 (normal)	90 (11.8% with PokéBall, full HP)	2 Speed	Medium Fast	Medicham
+307	59	70 (normal)	120 (15.7% with PokéBall, full HP)	1 Speed	Slow	Electrike
+308	166	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Speed	Slow	Manectric
+309	142	70 (normal)	200 (26.1% with PokéBall, full HP)	1 Speed	Medium Fast	Plusle
+310	142	70 (normal)	200 (26.1% with PokéBall, full HP)	1 Speed	Medium Fast	Minun
+311	151	70 (normal)	150 (19.6% with PokéBall, full HP)	1 Speed	Erratic	Volbeat
+312	151	70 (normal)	150 (19.6% with PokéBall, full HP)	1 Speed	Fluctuating	Illumise
+313	140	70 (normal)	150 (19.6% with PokéBall, full HP)	2 Special Attack	Medium Slow	Roselia
+314	60	70 (normal)	225 (29.4% with PokéBall, full HP)	1 HP	Fluctuating	Gulpin
+315	163	70 (normal)	75 (9.8% with PokéBall, full HP)	2 HP	Fluctuating	Swalot
+316	61	35 (lower than normal)	225 (29.4% with PokéBall, full HP)	1 Attack	Slow	Carvanha
+317	161	35 (lower than normal)	60 (7.8% with PokéBall, full HP)	2 Attack	Slow	Sharpedo
+318	80	70 (normal)	125 (16.3% with PokéBall, full HP)	1 HP	Fluctuating	Wailmer
+319	175	70 (normal)	60 (7.8% with PokéBall, full HP)	2 HP	Fluctuating	Wailord
+320	61	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Special Attack	Medium Fast	Numel
+321	161	70 (normal)	150 (19.6% with PokéBall, full HP)	1 Attack, 1 Special Attack	Medium Fast	Camerupt
+322	165	70 (normal)	90 (11.8% with PokéBall, full HP)	2 Defense	Medium Fast	Torkoal
+323	66	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Special Defense	Fast	Spoink
+324	165	70 (normal)	60 (7.8% with PokéBall, full HP)	2 Special Defense	Fast	Grumpig
+325	126	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Special Attack	Fast	Spinda
+326	58	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Attack	Medium Slow	Trapinch
+327	119	70 (normal)	120 (15.7% with PokéBall, full HP)	1 Attack, 1 Speed	Medium Slow	Vibrava
+328	234	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Attack, 2 Speed	Medium Slow	Flygon
+329	67	35 (lower than normal)	190 (24.8% with PokéBall, full HP)	1 Special Attack	Medium Slow	Cacnea
+330	166	35 (lower than normal)	60 (7.8% with PokéBall, full HP)	1 Attack, 1 Special Attack	Medium Slow	Cacturne
+331	62	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Special Defense	Erratic	Swablu
+332	172	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Special Defense	Erratic	Altaria
+333	160	70 (normal)	90 (11.8% with PokéBall, full HP)	2 Attack	Erratic	Zangoose
+334	160	70 (normal)	90 (11.8% with PokéBall, full HP)	1 Attack, 1 Special Attack	Fluctuating	Seviper
+335	161	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Special Attack	Fast	Lunatone
+336	161	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Attack	Fast	Solrock
+337	58	70 (normal)	190 (24.8% with PokéBall, full HP)	1 HP	Medium Fast	Barboach
+338	164	70 (normal)	75 (9.8% with PokéBall, full HP)	2 HP	Medium Fast	Whiscash
+339	62	70 (normal)	205 (26.8% with PokéBall, full HP)	1 Attack	Fluctuating	Corphish
+340	164	70 (normal)	155 (20.3% with PokéBall, full HP)	2 Attack	Fluctuating	Crawdaunt
+341	60	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Special Defense	Medium Fast	Baltoy
+342	175	70 (normal)	90 (11.8% with PokéBall, full HP)	2 Special Defense	Medium Fast	Claydol
+343	71	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Special Defense	Erratic	Lileep
+344	173	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Special Defense	Erratic	Cradily
+345	71	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Attack	Erratic	Anorith
+346	173	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Attack	Erratic	Armaldo
+347	40	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Speed	Erratic	Feebas
+348	189	70 (normal)	60 (7.8% with PokéBall, full HP)	2 Special Defense	Erratic	Milotic
+349	147	70 (normal)	45 (5.9% with PokéBall, full HP)	1 HP	Medium Fast	Castform
+350	154	70 (normal)	200 (26.1% with PokéBall, full HP)	1 Special Defense	Medium Slow	Kecleon
+351	59	35 (lower than normal)	225 (29.4% with PokéBall, full HP)	1 Attack	Fast	Shuppet
+352	159	35 (lower than normal)	45 (5.9% with PokéBall, full HP)	2 Attack	Fast	Banette
+353	59	35 (lower than normal)	190 (24.8% with PokéBall, full HP)	1 Special Defense	Fast	Duskull
+354	159	35 (lower than normal)	90 (11.8% with PokéBall, full HP)	1 Defense, 1 Special Defense	Fast	Dusclops
+355	161	70 (normal)	200 (26.1% with PokéBall, full HP)	2 HP	Slow	Tropius
+356	159	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Special Attack, 1 Special Defense	Fast	Chimecho
+357	163	35 (lower than normal)	30 (3.9% with PokéBall, full HP)	2 Attack	Medium Slow	Absol
+358	52	70 (normal)	125 (16.3% with PokéBall, full HP)	1 HP	Medium Fast	Wynaut
+359	60	70 (normal)	190 (24.8% with PokéBall, full HP)	1 HP	Medium Fast	Snorunt
+360	168	70 (normal)	75 (9.8% with PokéBall, full HP)	2 HP	Medium Fast	Glalie
+361	58	70 (normal)	255 (33.3% with PokéBall, full HP)	1 HP	Medium Slow	Spheal
+362	144	70 (normal)	120 (15.7% with PokéBall, full HP)	2 HP	Medium Slow	Sealeo
+363	239	70 (normal)	45 (5.9% with PokéBall, full HP)	3 HP	Medium Slow	Walrein
+364	69	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Defense	Erratic	Clamperl
+365	170	70 (normal)	60 (7.8% with PokéBall, full HP)	1 Attack, 1 Defense	Erratic	Huntail
+366	170	70 (normal)	60 (7.8% with PokéBall, full HP)	2 Special Attack	Erratic	Gorebyss
+367	170	70 (normal)	25 (3.3% with PokéBall, full HP)	1 HP, 1 Defense	Slow	Relicanth
+368	116	70 (normal)	225 (29.4% with PokéBall, full HP)	1 Speed	Fast	Luvdisc
+369	60	35 (lower than normal)	45 (5.9% with PokéBall, full HP)	1 Attack	Slow	Bagon
+370	147	35 (lower than normal)	45 (5.9% with PokéBall, full HP)	2 Defense	Slow	Shelgon
+371	270	35 (lower than normal)	45 (5.9% with PokéBall, full HP)	3 Attack	Slow	Salamence
+372	60	35 (lower than normal)	3 (0.4% with PokéBall, full HP)	1 Defense	Slow	Beldum
+373	147	35 (lower than normal)	3 (0.4% with PokéBall, full HP)	2 Defense	Slow	Metang
+374	270	35 (lower than normal)	3 (0.4% with PokéBall, full HP)	3 Defense	Slow	Metagross
+375	261	35 (lower than normal)	3 (0.4% with PokéBall, full HP)	3 Defense	Slow	Regirock
+376	261	35 (lower than normal)	3 (0.4% with PokéBall, full HP)	3 Special Defense	Slow	Regice
+377	261	35 (lower than normal)	3 (0.4% with PokéBall, full HP)	2 Defense, 1 Special Defense	Slow	Registeel
+378	270	90 (higher than normal)	3 (0.4% with PokéBall, full HP)	3 Special Defense	Slow	Latias
+379	270	90 (higher than normal)	3 (0.4% with PokéBall, full HP)	3 Special Attack	Slow	Latios
+380	302	0 (lower than normal)	3 (0.4% with PokéBall, full HP)	3 Special Attack	Slow	Kyogre
+381	302	0 (lower than normal)	3 (0.4% with PokéBall, full HP)	3 Attack	Slow	Groudon
+382	306	0 (lower than normal)	45 (5.9% with PokéBall, full HP)	2 Attack, 1 Special Attack	Slow	Rayquaza
+383	270	100 (higher than normal)	3 (0.4% with PokéBall, full HP)	3 HP	Slow	Jirachi
+384	270	0 (lower than normal)	3 (0.4% with PokéBall, full HP)	1 Attack, 1 Special Attack, 1 Speed	Slow	Deoxys
+385	64	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Attack	Medium Slow	Turtwig
+386	142	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Attack, 1 Defense	Medium Slow	Grotle
+387	236	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Attack, 1 Defense	Medium Slow	Torterra
+388	62	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Speed	Medium Slow	Chimchar
+389	142	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Special Attack, 1 Speed	Medium Slow	Monferno
+390	240	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Attack, 1 Special Attack, 1 Speed	Medium Slow	Infernape
+391	63	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Special Attack	Medium Slow	Piplup
+392	142	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Special Attack	Medium Slow	Prinplup
+393	239	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Special Attack	Medium Slow	Empoleon
+394	49	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Speed	Medium Slow	Starly
+395	119	70 (normal)	120 (15.7% with PokéBall, full HP)	2 Speed	Medium Slow	Staravia
+396	218	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Attack	Medium Slow	Staraptor
+397	50	70 (normal)	255 (33.3% with PokéBall, full HP)	1 HP	Medium Fast	Bidoof
+398	144	70 (normal)	127 (16.6% with PokéBall, full HP)	2 Attack	Medium Fast	Bibarel
+399	39	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Defense	Medium Slow	Kricketot
+400	134	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Attack	Medium Slow	Kricketune
+401	53	70 (normal)	235 (30.7% with PokéBall, full HP)	1 Attack	Medium Slow	Shinx
+402	127	100 (higher than normal)	120 (15.7% with PokéBall, full HP)	2 Attack	Medium Slow	Luxio
+403	235	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Attack	Medium Slow	Luxray
+404	56	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Special Attack	Medium Slow	Budew
+405	232	70 (normal)	75 (9.8% with PokéBall, full HP)	3 Special Attack	Medium Slow	Roserade
+406	70	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Attack	Erratic	Cranidos
+407	173	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Attack	Erratic	Rampardos
+408	70	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Defense	Erratic	Shieldon
+409	173	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Defense	Erratic	Bastiodon
+410	45	70 (normal)	120 (15.7% with PokéBall, full HP)	1 Special Defense	Medium Fast	Burmy
+411	148	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Special Defense	Medium Fast	Wormadam
+412	148	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Attack, 1 Special Attack	Medium Fast	Mothim
+413	49	70 (normal)	120 (15.7% with PokéBall, full HP)	1 Speed	Medium Slow	Combee
+414	166	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Defense, 1 Special Defense	Medium Slow	Vespiquen
+415	142	100 (higher than normal)	200 (26.1% with PokéBall, full HP)	1 Speed	Medium Fast	Pachirisu
+416	66	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Speed	Medium Fast	Buizel
+417	173	70 (normal)	75 (9.8% with PokéBall, full HP)	2 Speed	Medium Fast	Floatzel
+418	55	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Special Attack	Medium Fast	Cherubi
+419	158	70 (normal)	75 (9.8% with PokéBall, full HP)	2 Special Attack	Medium Fast	Cherrim
+420	65	70 (normal)	190 (24.8% with PokéBall, full HP)	1 HP	Medium Fast	Shellos
+421	166	70 (normal)	75 (9.8% with PokéBall, full HP)	2 HP	Medium Fast	Gastrodon
+422	169	100 (higher than normal)	45 (5.9% with PokéBall, full HP)	2 Speed	Fast	Ambipom
+423	70	70 (normal)	125 (16.3% with PokéBall, full HP)	1 HP	Fluctuating	Drifloon
+424	174	70 (normal)	60 (7.8% with PokéBall, full HP)	2 HP	Fluctuating	Drifblim
+425	70	0 (lower than normal)	190 (24.8% with PokéBall, full HP)	1 Speed	Medium Fast	Buneary
+426	168	140 (higher than normal)	60 (7.8% with PokéBall, full HP)	2 Speed	Medium Fast	Lopunny
+427	173	35 (lower than normal)	45 (5.9% with PokéBall, full HP)	1 Special Attack, 1 Special Defense	Fast	Mismagius
+428	177	35 (lower than normal)	30 (3.9% with PokéBall, full HP)	2 Attack	Medium Slow	Honchkrow
+429	62	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Speed	Fast	Glameow
+430	158	70 (normal)	75 (9.8% with PokéBall, full HP)	2 Speed	Fast	Purugly
+431	57	70 (normal)	120 (15.7% with PokéBall, full HP)	1 Special Attack	Fast	Chingling
+432	66	70 (normal)	225 (29.4% with PokéBall, full HP)	1 Speed	Medium Fast	Stunky
+433	168	70 (normal)	60 (7.8% with PokéBall, full HP)	2 HP	Medium Fast	Skuntank
+434	60	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Defense	Medium Fast	Bronzor
+435	175	70 (normal)	90 (11.8% with PokéBall, full HP)	1 Defense, 1 Special Defense	Medium Fast	Bronzong
+436	58	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Defense	Medium Fast	Bonsly
+437	62	70 (normal)	145 (19.0% with PokéBall, full HP)	1 Special Defense	Medium Fast	Mime Jr.
+438	110	140 (higher than normal)	130 (17.0% with PokéBall, full HP)	1 HP	Fast	Happiny
+439	144	35 (lower than normal)	30 (3.9% with PokéBall, full HP)	1 Attack	Medium Slow	Chatot
+440	170	70 (normal)	100 (13.1% with PokéBall, full HP)	1 Defense, 1 Special Defense	Medium Fast	Spiritomb
+441	60	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Attack	Slow	Gible
+442	144	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Attack	Slow	Gabite
+443	270	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Attack	Slow	Garchomp
+444	78	70 (normal)	50 (6.5% with PokéBall, full HP)	1 HP	Slow	Munchlax
+445	57	70 (normal)	75 (9.8% with PokéBall, full HP)	1 Attack	Medium Slow	Riolu
+446	184	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Attack, 1 Special Attack	Medium Slow	Lucario
+447	66	70 (normal)	140 (18.3% with PokéBall, full HP)	1 Defense	Slow	Hippopotas
+448	184	70 (normal)	60 (7.8% with PokéBall, full HP)	2 Defense	Slow	Hippowdon
+449	66	70 (normal)	120 (15.7% with PokéBall, full HP)	1 Defense	Slow	Skorupi
+450	175	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Defense	Slow	Drapion
+451	60	100 (higher than normal)	140 (18.3% with PokéBall, full HP)	1 Attack	Medium Fast	Croagunk
+452	172	70 (normal)	75 (9.8% with PokéBall, full HP)	2 Attack	Medium Fast	Toxicroak
+453	159	70 (normal)	200 (26.1% with PokéBall, full HP)	2 Attack	Slow	Carnivine
+454	66	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Speed	Erratic	Finneon
+455	161	70 (normal)	75 (9.8% with PokéBall, full HP)	2 Speed	Erratic	Lumineon
+456	69	70 (normal)	25 (3.3% with PokéBall, full HP)	1 Special Defense	Slow	Mantyke
+457	67	70 (normal)	120 (15.7% with PokéBall, full HP)	1 Attack	Slow	Snover
+458	173	70 (normal)	60 (7.8% with PokéBall, full HP)	1 Attack, 1 Special Attack	Slow	Abomasnow
+459	179	35 (lower than normal)	45 (5.9% with PokéBall, full HP)	1 Attack, 1 Speed	Medium Slow	Weavile
+460	241	70 (normal)	30 (3.9% with PokéBall, full HP)	3 Special Attack	Medium Fast	Magnezone
+461	180	70 (normal)	30 (3.9% with PokéBall, full HP)	3 HP	Medium Fast	Lickilicky
+462	241	70 (normal)	30 (3.9% with PokéBall, full HP)	3 Attack	Slow	Rhyperior
+463	187	70 (normal)	30 (3.9% with PokéBall, full HP)	2 Defense	Medium Fast	Tangrowth
+464	243	70 (normal)	30 (3.9% with PokéBall, full HP)	3 Attack	Medium Fast	Electivire
+465	243	70 (normal)	30 (3.9% with PokéBall, full HP)	3 Special Attack	Medium Fast	Magmortar
+466	245	70 (normal)	30 (3.9% with PokéBall, full HP)	2 Special Attack, 1 Special Defense	Fast	Togekiss
+467	180	70 (normal)	30 (3.9% with PokéBall, full HP)	2 Attack	Medium Fast	Yanmega
+468	184	35 (lower than normal)	45 (5.9% with PokéBall, full HP)	2 Defense	Medium Fast	Leafeon
+469	184	35 (lower than normal)	45 (5.9% with PokéBall, full HP)	2 Special Attack	Medium Fast	Glaceon
+470	179	70 (normal)	30 (3.9% with PokéBall, full HP)	2 Defense	Medium Slow	Gliscor
+471	239	70 (normal)	50 (6.5% with PokéBall, full HP)	3 Attack	Slow	Mamoswine
+472	241	70 (normal)	30 (3.9% with PokéBall, full HP)	3 Special Attack	Medium Fast	Porygon-Z
+473	233	35 (lower than normal)	45 (5.9% with PokéBall, full HP)	3 Attack	Slow	Gallade
+474	184	70 (normal)	60 (7.8% with PokéBall, full HP)	1 Defense, 2 Special Defense	Medium Fast	Probopass
+475	236	35 (lower than normal)	45 (5.9% with PokéBall, full HP)	1 Defense, 2 Special Defense	Fast	Dusknoir
+476	168	70 (normal)	75 (9.8% with PokéBall, full HP)	2 Speed	Medium Fast	Froslass
+477	154	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Special Attack, 1 Speed	Medium Fast	Rotom
+478	261	140 (higher than normal)	3 (0.4% with PokéBall, full HP)	2 Defense, 1 Special Defense	Slow	Uxie
+479	261	140 (higher than normal)	3 (0.4% with PokéBall, full HP)	1 Attack, 1 Special Attack, 1 Special Defense	Slow	Mesprit
+480	261	140 (higher than normal)	3 (0.4% with PokéBall, full HP)	2 Attack, 1 Special Attack	Slow	Azelf
+481	306	0 (lower than normal)	3 (0.4% with PokéBall, full HP)	3 Special Attack	Slow	Dialga
+482	306	0 (lower than normal)	3 (0.4% with PokéBall, full HP)	3 Special Attack	Slow	Palkia
+483	270	100 (higher than normal)	3 (0.4% with PokéBall, full HP)	3 Special Attack	Slow	Heatran
+484	302	0 (lower than normal)	3 (0.4% with PokéBall, full HP)	3 Attack	Slow	Regigigas
+485	306	0 (lower than normal)	3 (0.4% with PokéBall, full HP)	3 HP	Slow	Giratina
+486	270	100 (higher than normal)	3 (0.4% with PokéBall, full HP)	3 Special Defense	Slow	Cresselia
+487	216	70 (normal)	30 (3.9% with PokéBall, full HP)	1 HP	Slow	Phione
+488	270	70 (normal)	3 (0.4% with PokéBall, full HP)	3 HP	Slow	Manaphy
+489	270	0 (lower than normal)	3 (0.4% with PokéBall, full HP)	2 Special Attack, 1 Speed	Slow	Darkrai
+490	270	100 (higher than normal)	45 (5.9% with PokéBall, full HP)	3 HP	Medium Slow	Shaymin
+491	324	0 (lower than normal)	3 (0.4% with PokéBall, full HP)	3 HP	Slow	Arceus
+492	270	100 (higher than normal)	3 (0.4% with PokéBall, full HP)	3 HP	Slow	Victini
+493	62	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Speed	Medium Slow	Snivy
+494	145	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Speed	Medium Slow	Servine
+495	238	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Speed	Medium Slow	Serperior
+496	62	70 (normal)	45 (5.9% with PokéBall, full HP)	1 HP	Medium Slow	Tepig
+497	146	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Attack	Medium Slow	Pignite
+498	238	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Attack	Medium Slow	Emboar
+499	62	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Special Attack	Medium Slow	Oshawott
+500	145	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Special Attack	Medium Slow	Dewott
+501	238	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Special Attack	Medium Slow	Samurott
+502	51	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Attack	Medium Fast	Patrat
+503	147	70 (normal)	255 (33.3% with PokéBall, full HP)	2 Attack	Medium Fast	Watchog
+504	55	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Attack	Medium Slow	Lillipup
+505	130	70 (normal)	120 (15.7% with PokéBall, full HP)	2 Attack	Medium Slow	Herdier
+506	225	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Attack	Medium Slow	Stoutland
+507	56	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Speed	Medium Fast	Purrloin
+508	156	70 (normal)	90 (11.8% with PokéBall, full HP)	2 Speed	Medium Fast	Liepard
+509	63	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Speed	Medium Fast	Pansage
+510	174	70 (normal)	75 (9.8% with PokéBall, full HP)	2 Speed	Medium Fast	Simisage
+511	63	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Speed	Medium Fast	Pansear
+512	174	70 (normal)	75 (9.8% with PokéBall, full HP)	2 Speed	Medium Fast	Simisear
+513	63	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Speed	Medium Fast	Panpour
+514	174	70 (normal)	75 (9.8% with PokéBall, full HP)	2 Speed	Medium Fast	Simipour
+515	58	70 (normal)	190 (24.8% with PokéBall, full HP)	1 HP	Fast	Munna
+516	170	70 (normal)	75 (9.8% with PokéBall, full HP)	2 HP	Fast	Musharna
+517	53	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Attack	Medium Slow	Pidove
+518	125	70 (normal)	120 (15.7% with PokéBall, full HP)	2 Attack	Medium Slow	Tranquill
+519	220	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Attack	Medium Slow	Unfezant
+520	59	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Speed	Medium Fast	Blitzle
+521	174	70 (normal)	75 (9.8% with PokéBall, full HP)	2 Speed	Medium Fast	Zebstrika
+522	56	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Defense	Medium Slow	Roggenrola
+523	137	70 (normal)	120 (15.7% with PokéBall, full HP)	1 Attack, 1 Defense	Medium Slow	Boldore
+524	232	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Attack	Medium Slow	Gigalith
+525	65	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Speed	Medium Fast	Woobat
+526	149	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Speed	Medium Fast	Swoobat
+527	66	70 (normal)	120 (15.7% with PokéBall, full HP)	1 Attack	Medium Fast	Drilbur
+528	178	70 (normal)	60 (7.8% with PokéBall, full HP)	2 Attack	Medium Fast	Excadrill
+529	390	70 (normal)	255 (33.3% with PokéBall, full HP)	2 HP	Fast	Audino
+530	61	70 (normal)	180 (23.5% with PokéBall, full HP)	1 Attack	Medium Slow	Timburr
+531	142	70 (normal)	90 (11.8% with PokéBall, full HP)	2 Attack	Medium Slow	Gurdurr
+532	227	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Attack	Medium Slow	Conkeldurr
+533	59	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Speed	Medium Slow	Tympole
+534	134	70 (normal)	120 (15.7% with PokéBall, full HP)	2 HP	Medium Slow	Palpitoad
+535	229	70 (normal)	45 (5.9% with PokéBall, full HP)	3 HP	Medium Slow	Seismitoad
+536	163	70 (normal)	45 (5.9% with PokéBall, full HP)	2 HP	Medium Fast	Throh
+537	163	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Attack	Medium Fast	Sawk
+538	62	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Defense	Medium Slow	Sewaddle
+539	133	70 (normal)	120 (15.7% with PokéBall, full HP)	2 Defense	Medium Slow	Swadloon
+540	225	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Attack	Medium Slow	Leavanny
+541	52	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Defense	Medium Slow	Venipede
+542	126	70 (normal)	120 (15.7% with PokéBall, full HP)	2 Defense	Medium Slow	Whirlipede
+543	218	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Speed	Medium Slow	Scolipede
+544	56	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Speed	Medium Fast	Cottonee
+545	168	70 (normal)	75 (9.8% with PokéBall, full HP)	2 Speed	Medium Fast	Whimsicott
+546	56	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Special Attack	Medium Fast	Petilil
+547	168	70 (normal)	75 (9.8% with PokéBall, full HP)	2 Special Attack	Medium Fast	Lilligant
+548	161	70 (normal)	25 (3.3% with PokéBall, full HP)	2 Speed	Medium Fast	Basculin
+549	58	70 (normal)	180 (23.5% with PokéBall, full HP)	1 Attack	Medium Slow	Sandile
+550	123	70 (normal)	90 (11.8% with PokéBall, full HP)	2 Attack	Medium Slow	Krokorok
+551	234	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Attack	Medium Slow	Krookodile
+552	63	70 (normal)	120 (15.7% with PokéBall, full HP)	1 Attack	Medium Slow	Darumaka
+553	168	70 (normal)	60 (7.8% with PokéBall, full HP)	2 Attack	Medium Slow	Darmanitan
+554	161	70 (normal)	255 (33.3% with PokéBall, full HP)	2 Special Attack	Medium Fast	Maractus
+555	65	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Defense	Medium Fast	Dwebble
+556	170	70 (normal)	75 (9.8% with PokéBall, full HP)	2 Defense	Medium Fast	Crustle
+557	70	35 (lower than normal)	180 (23.5% with PokéBall, full HP)	1 Attack	Medium Fast	Scraggy
+558	171	70 (normal)	90 (11.8% with PokéBall, full HP)	1 Defense, 1 Special Defense	Medium Fast	Scrafty
+559	172	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Special Attack	Medium Fast	Sigilyph
+560	61	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Defense	Medium Fast	Yamask
+561	169	70 (normal)	90 (11.8% with PokéBall, full HP)	2 Defense	Medium Fast	Cofagrigus
+562	71	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Defense	Medium Fast	Tirtouga
+563	173	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Defense	Medium Fast	Carracosta
+564	71	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Attack	Medium Fast	Archen
+565	177	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Attack	Medium Fast	Archeops
+566	66	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Speed	Medium Fast	Trubbish
+567	166	70 (normal)	60 (7.8% with PokéBall, full HP)	2 Attack	Medium Fast	Garbodor
+568	66	70 (normal)	75 (9.8% with PokéBall, full HP)	1 Special Attack	Medium Slow	Zorua
+569	179	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Special Attack	Medium Slow	Zoroark
+570	60	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Speed	Fast	Minccino
+571	165	70 (normal)	60 (7.8% with PokéBall, full HP)	2 Speed	Fast	Cinccino
+572	58	70 (normal)	200 (26.1% with PokéBall, full HP)	1 Special Defense	Medium Slow	Gothita
+573	137	70 (normal)	100 (13.1% with PokéBall, full HP)	2 Special Defense	Medium Slow	Gothorita
+574	221	70 (normal)	50 (6.5% with PokéBall, full HP)	3 Special Defense	Medium Slow	Gothitelle
+575	58	70 (normal)	200 (26.1% with PokéBall, full HP)	1 Special Attack	Medium Slow	Solosis
+576	130	70 (normal)	100 (13.1% with PokéBall, full HP)	2 Special Attack	Medium Slow	Duosion
+577	221	70 (normal)	50 (6.5% with PokéBall, full HP)	3 Special Attack	Medium Slow	Reuniclus
+578	61	70 (normal)	190 (24.8% with PokéBall, full HP)	1 HP	Medium Fast	Ducklett
+579	166	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Speed	Medium Fast	Swanna
+580	61	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Special Attack	Slow	Vanillite
+581	138	70 (normal)	120 (15.7% with PokéBall, full HP)	2 Special Attack	Slow	Vanillish
+582	241	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Special Attack	Slow	Vanilluxe
+583	67	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Speed	Medium Fast	Deerling
+584	166	70 (normal)	75 (9.8% with PokéBall, full HP)	2 Attack	Medium Fast	Sawsbuck
+585	150	70 (normal)	200 (26.1% with PokéBall, full HP)	2 Speed	Medium Fast	Emolga
+586	63	70 (normal)	200 (26.1% with PokéBall, full HP)	1 Attack	Medium Fast	Karrablast
+587	173	70 (normal)	75 (9.8% with PokéBall, full HP)	2 Attack	Medium Fast	Escavalier
+588	59	70 (normal)	190 (24.8% with PokéBall, full HP)	1 HP	Medium Fast	Foongus
+589	162	70 (normal)	75 (9.8% with PokéBall, full HP)	2 HP	Medium Fast	Amoonguss
+590	67	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Special Defense	Medium Fast	Frillish
+591	168	70 (normal)	60 (7.8% with PokéBall, full HP)	2 Special Defense	Medium Fast	Jellicent
+592	165	70 (normal)	75 (9.8% with PokéBall, full HP)	2 HP	Fast	Alomomola
+593	64	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Speed	Medium Fast	Joltik
+594	165	70 (normal)	75 (9.8% with PokéBall, full HP)	2 Speed	Medium Fast	Galvantula
+595	61	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Defense	Medium Fast	Ferroseed
+596	171	70 (normal)	90 (11.8% with PokéBall, full HP)	2 Defense	Medium Fast	Ferrothorn
+597	60	70 (normal)	130 (17.0% with PokéBall, full HP)	1 Defense	Medium Slow	Klink
+598	154	70 (normal)	60 (7.8% with PokéBall, full HP)	2 Defense	Medium Slow	Klang
+599	234	70 (normal)	30 (3.9% with PokéBall, full HP)	3 Defense	Medium Slow	Klinklang
+600	55	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Speed	Slow	Tynamo
+601	142	70 (normal)	60 (7.8% with PokéBall, full HP)	2 Attack	Slow	Eelektrik
+602	232	70 (normal)	30 (3.9% with PokéBall, full HP)	3 Attack	Slow	Eelektross
+603	67	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Special Attack	Medium Fast	Elgyem
+604	170	70 (normal)	90 (11.8% with PokéBall, full HP)	2 Special Attack	Medium Fast	Beheeyem
+605	55	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Special Attack	Medium Slow	Litwick
+606	130	70 (normal)	90 (11.8% with PokéBall, full HP)	2 Special Attack	Medium Slow	Lampent
+607	234	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Special Attack	Medium Slow	Chandelure
+608	64	35 (lower than normal)	75 (9.8% with PokéBall, full HP)	1 Attack	Slow	Axew
+609	144	35 (lower than normal)	60 (7.8% with PokéBall, full HP)	2 Attack	Slow	Fraxure
+610	243	35 (lower than normal)	45 (5.9% with PokéBall, full HP)	3 Attack	Slow	Haxorus
+611	61	70 (normal)	120 (15.7% with PokéBall, full HP)	1 Attack	Medium Fast	Cubchoo
+612	177	70 (normal)	60 (7.8% with PokéBall, full HP)	2 Attack	Medium Fast	Beartic
+613	180	70 (normal)	25 (3.3% with PokéBall, full HP)	2 Special Defense	Medium Fast	Cryogonal
+614	61	70 (normal)	200 (26.1% with PokéBall, full HP)	1 Defense	Medium Fast	Shelmet
+615	173	70 (normal)	75 (9.8% with PokéBall, full HP)	2 Speed	Medium Fast	Accelgor
+616	165	70 (normal)	75 (9.8% with PokéBall, full HP)	2 HP	Medium Fast	Stunfisk
+617	70	70 (normal)	180 (23.5% with PokéBall, full HP)	1 Attack	Medium Slow	Mienfoo
+618	179	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Attack	Medium Slow	Mienshao
+619	170	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Attack	Medium Fast	Druddigon
+620	61	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Attack	Medium Fast	Golett
+621	169	70 (normal)	90 (11.8% with PokéBall, full HP)	2 Attack	Medium Fast	Golurk
+622	68	35 (lower than normal)	120 (15.7% with PokéBall, full HP)	1 Attack	Medium Fast	Pawniard
+623	172	35 (lower than normal)	45 (5.9% with PokéBall, full HP)	2 Attack	Medium Fast	Bisharp
+624	172	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Attack	Medium Fast	Bouffalant
+625	70	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Attack	Slow	Rufflet
+626	179	70 (normal)	60 (7.8% with PokéBall, full HP)	2 Attack	Slow	Braviary
+627	74	35 (lower than normal)	190 (24.8% with PokéBall, full HP)	1 Defense	Slow	Vullaby
+628	179	35 (lower than normal)	60 (7.8% with PokéBall, full HP)	2 Special Attack	Slow	Mandibuzz
+629	169	70 (normal)	90 (11.8% with PokéBall, full HP)	2 Special Attack	Medium Fast	Heatmor
+630	169	70 (normal)	90 (11.8% with PokéBall, full HP)	2 Defense	Medium Fast	Durant
+631	60	35 (lower than normal)	45 (5.9% with PokéBall, full HP)	1 Attack	Slow	Deino
+632	147	35 (lower than normal)	45 (5.9% with PokéBall, full HP)	2 Attack	Slow	Zweilous
+633	270	35 (lower than normal)	45 (5.9% with PokéBall, full HP)	3 Special Attack	Slow	Hydreigon
+634	72	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Attack	Slow	Larvesta
+635	248	70 (normal)	15 (2.0% with PokéBall, full HP)	3 Special Attack	Slow	Volcarona
+636	261	35 (lower than normal)	3 (0.4% with PokéBall, full HP)	3 Defense	Slow	Cobalion
+637	261	35 (lower than normal)	3 (0.4% with PokéBall, full HP)	3 Attack	Slow	Terrakion
+638	261	35 (lower than normal)	3 (0.4% with PokéBall, full HP)	3 Special Defense	Slow	Virizion
+639	261	90 (higher than normal)	3 (0.4% with PokéBall, full HP)	3 Attack	Slow	Tornadus
+640	261	90 (higher than normal)	3 (0.4% with PokéBall, full HP)	3 Attack	Slow	Thundurus
+641	306	0 (lower than normal)	3 (0.4% with PokéBall, full HP)	3 Special Attack	Slow	Reshiram
+642	306	0 (lower than normal)	3 (0.4% with PokéBall, full HP)	3 Attack	Slow	Zekrom
+643	270	90 (higher than normal)	3 (0.4% with PokéBall, full HP)	3 Special Attack	Slow	Landorus
+644	297	0 (lower than normal)	3 (0.4% with PokéBall, full HP)	1 HP, 1 Attack, 1 Special Attack	Slow	Kyurem
+645	261	35 (lower than normal)	3 (0.4% with PokéBall, full HP)	3 Special Attack	Slow	Keldeo
+646	270	100 (higher than normal)	3 (0.4% with PokéBall, full HP)	1 Special Attack, 1 Special Defense, 1 Speed	Slow	Meloetta
+647	270	0 (lower than normal)	3 (0.4% with PokéBall, full HP)	1 Attack, 1 Special Attack, 1 Speed	Slow	Genesect
+648	63	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Defense	Medium Slow	Chespin
+649	142	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Defense	Medium Slow	Quilladin
+650	239	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Defense	Medium Slow	Chesnaught
+651	61	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Special Attack	Medium Slow	Fennekin
+652	143	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Special Attack	Medium Slow	Braixen
+653	240	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Special Attack	Medium Slow	Delphox
+654	63	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Speed	Medium Slow	Froakie
+655	142	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Speed	Medium Slow	Frogadier
+656	239	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Speed	Medium Slow	Greninja
+657	47	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Speed	Medium Fast	Bunnelby
+658	148	70 (normal)	127 (16.6% with PokéBall, full HP)	2 HP	Medium Fast	Diggersby
+659	56	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Speed	Medium Slow	Fletchling
+660	134	70 (normal)	120 (15.7% with PokéBall, full HP)	2 Speed	Medium Slow	Fletchinder
+661	175	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Speed	Medium Slow	Talonflame
+662	40	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Defense	Medium Fast	Scatterbug
+663	75	70 (normal)	120 (15.7% with PokéBall, full HP)	2 Defense	Medium Fast	Spewpa
+664	185	70 (normal)	45 (5.9% with PokéBall, full HP)	1 HP, 1 Special Attack, 1 Speed	Medium Fast	Vivillon
+665	74	70 (normal)	220 (28.8% with PokéBall, full HP)	1 Special Attack	Medium Slow	Litleo
+666	177	70 (normal)	65 (8.5% with PokéBall, full HP)	2 Special Attack	Medium Slow	Pyroar
+667	61	70 (normal)	225 (29.4% with PokéBall, full HP)	1 Special Defense	Medium Fast	Flabébé
+668	130	70 (normal)	120 (15.7% with PokéBall, full HP)	2 Special Defense	Medium Fast	Floette
+669	248	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Special Defense	Medium Fast	Florges
+670	70	70 (normal)	200 (26.1% with PokéBall, full HP)	1 HP	Medium Fast	Skiddo
+671	186	70 (normal)	45 (5.9% with PokéBall, full HP)	2 HP	Medium Fast	Gogoat
+672	70	70 (normal)	220 (28.8% with PokéBall, full HP)	1 Attack	Medium Fast	Pancham
+673	173	70 (normal)	65 (8.5% with PokéBall, full HP)	2 Attack	Medium Fast	Pangoro
+674	165	70 (normal)	160 (20.9% with PokéBall, full HP)	1 Speed	Medium Fast	Furfrou
+675	71	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Speed	Medium Fast	Espurr
+676	163	70 (normal)	75 (9.8% with PokéBall, full HP)	2 Speed	Medium Fast	Meowstic
+677	65	70 (normal)	180 (23.5% with PokéBall, full HP)	1 Defense	Medium Fast	Honedge
+678	157	70 (normal)	90 (11.8% with PokéBall, full HP)	2 Defense	Medium Fast	Doublade
+679	234	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Attack, 1 Special Attack	Medium Fast	Aegislash
+680	68	70 (normal)	200 (26.1% with PokéBall, full HP)	1 HP	Medium Fast	Spritzee
+681	162	70 (normal)	140 (18.3% with PokéBall, full HP)	2 HP	Medium Fast	Aromatisse
+682	68	70 (normal)	200 (26.1% with PokéBall, full HP)	1 Defense	Medium Fast	Swirlix
+683	168	70 (normal)	140 (18.3% with PokéBall, full HP)	2 Defense	Medium Fast	Slurpuff
+684	58	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Attack	Medium Fast	Inkay
+685	169	70 (normal)	80 (10.5% with PokéBall, full HP)	2 Attack	Medium Fast	Malamar
+686	61	70 (normal)	120 (15.7% with PokéBall, full HP)	1 Attack	Medium Fast	Binacle
+687	175	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Attack	Medium Fast	Barbaracle
+688	64	70 (normal)	225 (29.4% with PokéBall, full HP)	1 Special Defense	Medium Fast	Skrelp
+689	173	70 (normal)	55 (7.2% with PokéBall, full HP)	2 Special Defense	Medium Fast	Dragalge
+690	66	70 (normal)	225 (29.4% with PokéBall, full HP)	1 Special Attack	Slow	Clauncher
+691	100	70 (normal)	55 (7.2% with PokéBall, full HP)	2 Special Attack	Slow	Clawitzer
+692	58	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Speed	Medium Fast	Helioptile
+693	168	70 (normal)	75 (9.8% with PokéBall, full HP)	1 Special Attack, 1 Speed	Medium Fast	Heliolisk
+694	72	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Attack	Medium Fast	Tyrunt
+695	182	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Attack	Medium Fast	Tyrantrum
+696	72	70 (normal)	45 (5.9% with PokéBall, full HP)	1 HP	Medium Fast	Amaura
+697	104	70 (normal)	45 (5.9% with PokéBall, full HP)	2 HP	Medium Fast	Aurorus
+698	184	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Special Defense	Medium Fast	Sylveon
+699	175	70 (normal)	100 (13.1% with PokéBall, full HP)	2 Attack	Medium Fast	Hawlucha
+700	151	70 (normal)	180 (23.5% with PokéBall, full HP)	2 Speed	Medium Fast	Dedenne
+701	100	70 (normal)	60 (7.8% with PokéBall, full HP)	1 Defense, 1 Special Defense	Slow	Carbink
+702	60	35 (lower than normal)	45 (5.9% with PokéBall, full HP)	1 Special Defense	Slow	Goomy
+703	158	35 (lower than normal)	45 (5.9% with PokéBall, full HP)	2 Special Defense	Slow	Sliggoo
+704	270	35 (lower than normal)	45 (5.9% with PokéBall, full HP)	3 Special Defense	Slow	Goodra
+705	165	70 (normal)	75 (9.8% with PokéBall, full HP)	1 Defense	Fast	Klefki
+706	62	70 (normal)	120 (15.7% with PokéBall, full HP)	1 Attack	Medium Fast	Phantump
+707	166	70 (normal)	60 (7.8% with PokéBall, full HP)	2 Attack	Medium Fast	Trevenant
+708	67	70 (normal)	120 (15.7% with PokéBall, full HP)	1 Defense	Medium Fast	Pumpkaboo
+709	173	70 (normal)	60 (7.8% with PokéBall, full HP)	2 Defense	Medium Fast	Gourgeist
+710	61	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Defense	Medium Fast	Bergmite
+711	180	70 (normal)	55 (7.2% with PokéBall, full HP)	2 Defense	Medium Fast	Avalugg
+712	49	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Speed	Medium Fast	Noibat
+713	187	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Speed	Medium Fast	Noivern
+714	306	0 (lower than normal)	45 (5.9% with PokéBall, full HP)	3 HP	Slow	Xerneas
+715	306	0 (lower than normal)	45 (5.9% with PokéBall, full HP)	3 HP	Slow	Yveltal
+716	270	0 (lower than normal)	3 (0.4% with PokéBall, full HP)	3 HP	Slow	Zygarde
+717	270	70 (normal)	3 (0.4% with PokéBall, full HP)	1 Defense, 2 Special Defense	Slow	Diancie
+718	270	100 (higher than normal)	3 (0.4% with PokéBall, full HP)	3 Special Attack	Slow	Hoopa
+719	270	100 (higher than normal)	3 (0.4% with PokéBall, full HP)	3 Special Attack	Slow	Volcanion
+720	64	70 (normal)	45 (5.9% with PokéBall, full HP)	1 HP	Medium Slow	Rowlet
+721	147	70 (normal)	45 (5.9% with PokéBall, full HP)	2 HP	Medium Slow	Dartrix
+722	239	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Attack	Medium Slow	Decidueye
+723	64	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Speed	Medium Slow	Litten
+724	147	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Speed	Medium Slow	Torracat
+725	239	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Attack	Medium Slow	Incineroar
+726	64	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Special Attack	Medium Slow	Popplio
+727	147	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Special Attack	Medium Slow	Brionne
+728	239	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Special Attack	Medium Slow	Primarina
+729	53	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Attack	Medium Fast	Pikipek
+730	124	70 (normal)	120 (15.7% with PokéBall, full HP)	2 Attack	Medium Fast	Trumbeak
+731	218	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Attack	Medium Fast	Toucannon
+732	51	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Attack	Medium Fast	Yungoos
+733	146	70 (normal)	127 (16.6% with PokéBall, full HP)	2 Attack	Medium Fast	Gumshoos
+734	60	70 (normal)	255 (33.3% with PokéBall, full HP)	1 Attack	Medium Fast	Grubbin
+735	140	70 (normal)	120 (15.7% with PokéBall, full HP)	2 Defense	Medium Fast	Charjabug
+736	225	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Special Attack	Medium Fast	Vikavolt
+737	68	70 (normal)	225 (29.4% with PokéBall, full HP)	1 Attack	Medium Fast	Crabrawler
+738	167	70 (normal)	60 (7.8% with PokéBall, full HP)	2 Attack	Medium Fast	Crabominable
+739	167	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Special Attack	Medium Fast	Oricorio
+740	61	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Speed	Medium Fast	Cutiefly
+741	162	70 (normal)	75 (9.8% with PokéBall, full HP)	2 Speed	Medium Fast	Ribombee
+742	56	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Attack	Medium Fast	Rockruff
+743	170	70 (normal)	90 (11.8% with PokéBall, full HP)	2 Attack	Medium Fast	Lycanroc
+744	61	70 (normal)	60 (7.8% with PokéBall, full HP)	1 HP	Fast	Wishiwashi
+745	61	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Defense	Medium Fast	Mareanie
+746	173	70 (normal)	75 (9.8% with PokéBall, full HP)	2 Defense	Medium Fast	Toxapex
+747	77	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Attack	Medium Fast	Mudbray
+748	175	70 (normal)	60 (7.8% with PokéBall, full HP)	2 Attack	Medium Fast	Mudsdale
+749	54	70 (normal)	200 (26.1% with PokéBall, full HP)	1 Special Defense	Medium Fast	Dewpider
+750	159	70 (normal)	100 (13.1% with PokéBall, full HP)	2 Special Defense	Medium Fast	Araquanid
+751	50	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Attack	Medium Fast	Fomantis
+752	168	70 (normal)	75 (9.8% with PokéBall, full HP)	2 Attack	Medium Fast	Lurantis
+753	57	70 (normal)	190 (24.8% with PokéBall, full HP)	1 Special Defense	Medium Fast	Morelull
+754	142	70 (normal)	75 (9.8% with PokéBall, full HP)	2 Special Defense	Medium Fast	Shiinotic
+755	64	70 (normal)	120 (15.7% with PokéBall, full HP)	1 Speed	Medium Fast	Salandit
+756	168	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Speed	Medium Fast	Salazzle
+757	68	70 (normal)	140 (18.3% with PokéBall, full HP)	1 Attack	Medium Fast	Stufful
+758	175	70 (normal)	70 (9.1% with PokéBall, full HP)	2 Attack	Medium Fast	Bewear
+759	42	70 (normal)	235 (30.7% with PokéBall, full HP)	1 HP	Medium Slow	Bounsweet
+760	102	70 (normal)	120 (15.7% with PokéBall, full HP)	2 Speed	Medium Slow	Steenee
+761	230	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Attack	Medium Slow	Tsareena
+762	170	70 (normal)	60 (7.8% with PokéBall, full HP)	2 Special Defense	Fast	Comfey
+763	172	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Special Defense	Slow	Oranguru
+764	172	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Attack	Slow	Passimian
+765	46	70 (normal)	90 (11.8% with PokéBall, full HP)	1 Speed	Medium Fast	Wimpod
+766	186	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Defense	Medium Fast	Golisopod
+767	64	70 (normal)	140 (18.3% with PokéBall, full HP)	1 Defense	Medium Fast	Sandygast
+768	168	70 (normal)	60 (7.8% with PokéBall, full HP)	2 Defense	Medium Fast	Palossand
+769	144	70 (normal)	60 (7.8% with PokéBall, full HP)	2 Special Defense	Fast	Pyukumuku
+770	107	0 (lower than normal)	3 (0.4% with PokéBall, full HP)	2 HP	Slow	Type: Null
+771	257	0 (lower than normal)	3 (0.4% with PokéBall, full HP)	3 HP	Slow	Silvally
+772	154	70 (normal)	30 (3.9% with PokéBall, full HP)	1 Defense, 1 Special Defense	Medium Slow	Minior
+773	168	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Attack	Slow	Komala
+774	170	70 (normal)	70 (9.1% with PokéBall, full HP)	2 Defense	Medium Fast	Turtonator
+775	152	70 (normal)	180 (23.5% with PokéBall, full HP)	2 Attack	Medium Fast	Togedemaru
+776	167	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Special Defense	Medium Fast	Mimikyu
+777	166	70 (normal)	80 (10.5% with PokéBall, full HP)	2 Attack	Medium Fast	Bruxish
+778	170	70 (normal)	70 (9.1% with PokéBall, full HP)	2 Special Attack	Medium Fast	Drampa
+779	181	70 (normal)	25 (3.3% with PokéBall, full HP)	2 Attack	Medium Fast	Dhelmise
+780	60	70 (normal)	45 (5.9% with PokéBall, full HP)	1 Defense	Slow	Jangmo-o
+781	147	70 (normal)	45 (5.9% with PokéBall, full HP)	2 Defense	Slow	Hakamo-o
+782	270	70 (normal)	45 (5.9% with PokéBall, full HP)	3 Defense	Slow	Kommo-o
+783	257	70 (normal)	3 (0.4% with PokéBall, full HP)	3 Speed	Slow	Tapu Koko
+784	257	70 (normal)	3 (0.4% with PokéBall, full HP)	3 Special Attack	Slow	Tapu Lele
+785	257	70 (normal)	3 (0.4% with PokéBall, full HP)	3 Attack	Slow	Tapu Bulu
+786	257	70 (normal)	3 (0.4% with PokéBall, full HP)	3 Special Defense	Slow	Tapu Fini
+787	40	0 (lower than normal)	45 (5.9% with PokéBall, full HP)	1 HP	Slow	Cosmog
+788	140	0 (lower than normal)	45 (5.9% with PokéBall, full HP)	1 Defense, 1 Special Defense	Slow	Cosmoem
+789	306	0 (lower than normal)	45 (5.9% with PokéBall, full HP)	3 Attack	Slow	Solgaleo
+790	306	0 (lower than normal)	45 (5.9% with PokéBall, full HP)	3 Special Attack	Slow	Lunala
+791	257	0 (lower than normal)	45 (5.9% with PokéBall, full HP)	3 Special Defense	Slow	Nihilego
+792	257	0 (lower than normal)	45 (5.9% with PokéBall, full HP)	1 Attack, 2 Defense	Slow	Buzzwole
+793	257	0 (lower than normal)	45 (5.9% with PokéBall, full HP)	3 Speed	Slow	Pheromosa
+794	257	0 (lower than normal)	45 (5.9% with PokéBall, full HP)	3 Special Attack	Slow	Xurkitree
+795	257	0 (lower than normal)	45 (5.9% with PokéBall, full HP)	1 Attack, 1 Defense, 1 Special Attack	Slow	Celesteela
+796	257	0 (lower than normal)	45 (5.9% with PokéBall, full HP)	3 Attack	Slow	Kartana
+797	257	0 (lower than normal)	45 (5.9% with PokéBall, full HP)	3 HP	Slow	Guzzlord
+798	270	0 (lower than normal)	255 (33.3% with PokéBall, full HP)	1 Attack, 2 Special Attack	Slow	Necrozma
+799	270	0 (lower than normal)	3 (0.4% with PokéBall, full HP)	3 Special Attack	Slow	Magearna
+800	270	0 (lower than normal)	3 (0.4% with PokéBall, full HP)	2 Attack, 1 Speed	Slow	Marshadow
+801	189	—	45 (5.9% with PokéBall, full HP)	1 Speed	Slow	Poipole
+802	243	—	45 (5.9% with PokéBall, full HP)	3 Special Attack	Slow	Naganadel
+803	257	—	30 (3.9% with PokéBall, full HP)	3 Defense	Slow	Stakataka
+804	257	—	30 (3.9% with PokéBall, full HP)	3 Special Attack	Slow	Blacephalon
+805	270	—	3 (0.4% with PokéBall, full HP)	3 Speed	Slow	Zeraora
